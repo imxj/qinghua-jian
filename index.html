@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#365943">
+  <meta name="description" content="对照清华简实物照片、简号、通行字选读与白话解释，探索公开图版中的21种篇目。保留释读依据、原图出处与未解之处。">
+  <title>清华简 · 看简，读字</title>
+  <style>
+    :root{--bg:#f4f1e9;--paper:#fffdf8;--ink:#262e27;--muted:#626b60;--line:#d6d9cc;--green:#365943;--wash:#e5ebdf;--gold:#8b6a3f}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.75 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}a{color:inherit;text-decoration:none;text-underline-offset:4px}a:focus-visible{outline:2px solid var(--green);outline-offset:5px}a:hover{text-decoration:underline}button,a{-webkit-tap-highlight-color:transparent}img{max-width:100%}p,h1,h2,h3{margin:0}p{overflow-wrap:anywhere}.serif,h1,h2,h3{font-family:"Songti SC","Noto Serif CJK SC","STSong",serif;font-weight:500}.wrap{width:min(1180px,calc(100% - 80px));margin:auto}.skip{position:absolute;left:20px;top:-80px;background:var(--green);color:white;padding:10px 18px;z-index:5}.skip:focus{top:10px}.site-header{border-bottom:1px solid var(--line)}.header-inner{display:flex;justify-content:space-between;align-items:center;gap:24px;min-height:88px}.brand{display:flex;align-items:center;gap:13px;font-family:"Songti SC",serif;font-size:22px;letter-spacing:.12em}.brand-mark{display:flex;gap:4px;align-items:center;height:28px}.brand-mark i{display:block;background:var(--green);width:4px;height:25px;border-radius:1px}.brand-mark i:nth-child(2){height:32px}.brand-mark i:nth-child(3){height:21px}.nav{display:flex;gap:28px;align-items:center;font-size:13px;color:var(--muted)}.nav a:hover{color:var(--green)}.nav .github{padding-left:24px;border-left:1px solid var(--line)}
+    .hero{display:grid;grid-template-columns:1.13fr 1fr;align-items:center;gap:76px;padding-top:64px;padding-bottom:62px}.eyebrow{font-size:10px;letter-spacing:.19em;color:var(--muted);text-transform:uppercase}.hero h1{font-size:clamp(42px,4.3vw,62px);line-height:1.32;letter-spacing:.02em;margin:22px 0 24px}.hero h1 span{display:block;color:var(--green)}.intro{max-width:470px;font-size:16px;line-height:1.95;color:var(--muted)}.actions{display:flex;align-items:center;gap:24px;flex-wrap:wrap;margin-top:31px}.primary{background:var(--green);color:var(--paper);padding:12px 22px;border:1px solid var(--green);display:inline-flex;align-items:center;justify-content:space-between;gap:28px;font-size:14px;border-radius:2px;transition:background .2s}.primary:hover{background:#284631;text-decoration:none}.secondary{font-size:14px;color:var(--green);padding:10px 0}.arrow{font-family:system-ui,sans-serif;font-size:18px}.hero-note{font-size:11px;color:var(--muted);margin-top:24px;letter-spacing:.03em}.artifact{margin:0;position:relative;background:var(--paper);border:1px solid var(--line);padding:34px 35px 22px;box-shadow:10px 10px 0 #e8e8dc}.artifact-head{display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--muted);letter-spacing:.08em;border-bottom:1px solid var(--line);padding-bottom:16px}.artifact-number{font-family:Georgia,serif;color:var(--gold);font-size:18px}.slips{display:flex;align-items:flex-start;justify-content:center;gap:29px;height:340px;margin:26px 0 18px}.slips img{height:340px;width:auto;max-width:22%;object-fit:contain;mix-blend-mode:multiply}.artifact figcaption{display:flex;justify-content:space-between;align-items:center;gap:12px;border-top:1px solid var(--line);padding-top:15px;font-size:10px;color:var(--muted)}.artifact figcaption strong{font-size:13px;font-weight:500;letter-spacing:.04em;color:var(--ink)}.artifact figcaption a{text-decoration:underline}.stats{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.stat{padding:24px 30px 24px 0;display:flex;align-items:center;gap:20px}.stat+.stat{border-left:1px solid var(--line);padding-left:40px}.stat-number{font:38px/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.04em;color:var(--green)}.stat-label{font-size:13px}.stat-label small{display:block;font-size:10px;letter-spacing:.035em;color:var(--muted);margin-top:3px}.scope{font-size:11px;color:var(--muted);margin-top:13px}
+    .explore{padding:64px 0 58px}.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:26px}.section-head h2{font-size:29px;margin-top:8px;line-height:1.4}.section-head>a{font-size:12px;color:var(--green);white-space:nowrap}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}.card{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);padding:25px 23px;min-height:247px;transition:border-color .2s,transform .2s}.card:hover{border-color:var(--green);transform:translateY(-3px);text-decoration:none}.card .category{font-size:10px;letter-spacing:.12em;color:var(--gold)}.card h3{font-size:25px;margin:12px 0 14px;line-height:1.4}.card p{font-size:12px;line-height:1.9;color:var(--muted);margin-bottom:20px}.card-bottom{display:flex;align-items:center;justify-content:space-between;margin-top:auto;color:var(--green);font-size:11px}.card-bottom .arrow{font-size:19px}.more-texts{display:flex;gap:10px 18px;align-items:center;flex-wrap:wrap;margin-top:24px;font-size:12px;color:var(--green)}.more-texts span{color:var(--muted);font-size:11px}.more-texts a{text-decoration:underline;text-decoration-color:#acb5a4}
+    .method{display:grid;grid-template-columns:1fr 1.8fr;gap:65px;border-top:1px solid var(--line);padding:44px 0 48px}.method h2{font-size:25px;line-height:1.5;margin:8px 0 13px}.method-intro{font-size:12px;color:var(--muted);max-width:300px;line-height:1.95}.steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}.step-number{font:italic 19px Georgia,serif;color:var(--gold)}.steps h3{font-size:16px;margin:12px 0 9px}.steps p{font-size:11px;line-height:1.95;color:var(--muted)}.quality{font-size:11px;color:var(--muted);border:1px solid var(--line);padding:14px 18px;background:#edefe5;margin-bottom:46px}.quality strong{font-weight:500;color:var(--ink)}.site-footer{background:#e9ebe1;border-top:1px solid var(--line)}.footer-inner{padding:26px 0 28px;display:flex;justify-content:space-between;gap:25px;align-items:flex-start}.footer-title{font-family:"Songti SC",serif;font-size:16px;margin-bottom:6px}.footer-note{max-width:590px;font-size:10px;color:var(--muted);line-height:1.95}.footer-links{display:flex;flex-wrap:wrap;gap:10px 20px;font-size:11px;color:var(--green);justify-content:flex-end}.footer-links a{text-decoration:underline}
+    @media(max-width:1040px){.wrap{width:calc(100% - 56px)}.hero{gap:40px}.artifact{padding:26px 25px 20px}.slips{gap:24px}.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.card{min-height:205px}.method{gap:35px;grid-template-columns:.8fr 1.8fr}.steps{gap:20px}.stat+.stat{padding-left:25px}.stat{gap:14px}}
+    @media(max-width:760px){.wrap{width:calc(100% - 36px)}.header-inner{min-height:73px;gap:15px}.brand{font-size:20px;gap:10px}.nav{gap:17px;font-size:12px}.nav .about{display:none}.nav .github{padding-left:0;border:0}.hero{grid-template-columns:1fr;padding-top:40px;padding-bottom:36px;gap:35px}.hero h1{font-size:clamp(34px,10.25vw,40px);margin:17px 0 18px}.intro{font-size:14px;max-width:100%}.actions{margin-top:23px;gap:22px}.hero-note{margin-top:18px}.artifact{max-width:490px;width:100%;margin:0 auto;padding:25px 29px 18px;box-shadow:6px 6px 0 #e8e8dc}.slips{height:300px;gap:32px;margin-top:23px}.slips img{height:300px}.stats{grid-template-columns:repeat(3,minmax(0,1fr))}.stat,.stat+.stat{padding:19px 9px;display:block;text-align:center}.stat:first-child{padding-left:0}.stat:last-child{padding-right:0}.stat-number{font-size:30px}.stat-label{font-size:11px;margin-top:7px}.stat-label small{font-size:8px;letter-spacing:0}.scope{font-size:10px;line-height:1.9}.explore{padding:43px 0 35px}.section-head{gap:15px;align-items:center;margin-bottom:21px}.section-head h2{font-size:25px}.section-head>a{font-size:10px}.cards{gap:12px}.card{padding:21px 17px;min-height:239px}.card h3{font-size:22px}.card p{font-size:11px}.card .category{font-size:9px}.more-texts{gap:9px 16px;font-size:11px;line-height:1.9}.more-texts span{flex-basis:100%}.method{grid-template-columns:1fr;gap:27px;padding:30px 0}.method h2{font-size:24px}.method-intro{max-width:100%}.steps{gap:18px}.steps h3{font-size:15px}.steps p{font-size:10px}.quality{font-size:10px;line-height:1.95;padding:13px 15px;margin-bottom:30px}.footer-inner{display:block;padding:23px 0}.footer-links{justify-content:flex-start;margin-top:18px;font-size:10px}.footer-note{font-size:9px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card,.primary{transition:none}.card:hover{transform:none}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">跳转到主要内容</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./" aria-label="清华简首页"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>清华简</a>
+      <nav class="nav" aria-label="主要导航"><a href="reading.html">识读</a><a href="gallery.html">简影</a><a href="#method" class="about">关于</a><a class="github" href="https://github.com/imxj/qinghua-jian">GitHub ↗</a></nav>
+    </div>
+  </header>
+  <main id="main" class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div>
+        <p class="eyebrow">Tsinghua bamboo slips · A reading companion</p>
+        <h1 id="hero-title">从一支竹简，<span>读进古人的文字。</span></h1>
+        <p class="intro">放大真实简影，对照通行字选读，理解简文的意思。在照片与释文之间，一点点看清这些留下来的字。</p>
+        <div class="actions"><a class="primary" href="reading.html#slip=%E5%B0%B9%E8%87%B3-1">开始逐简阅读 <span class="arrow" aria-hidden="true">→</span></a><a class="secondary" href="gallery.html">浏览全部简影 <span aria-hidden="true">↗</span></a></div>
+        <p class="hero-note">原图 · 简号 · 选读 · 白话解释 · 出处与疑问</p>
+      </div>
+      <figure class="artifact">
+        <div class="artifact-head"><span>简影选读 / 尹至</span><span class="artifact-number">01—05</span></div>
+        <div class="slips">
+          <img src="photos/pdf-p039-Im0.jpg" width="60" height="1079" alt="《尹至》第5简实物照片">
+          <img src="photos/pdf-p039-Im1.jpg" width="37" height="1079" alt="《尹至》第4简实物照片">
+          <img src="photos/pdf-p039-Im2.jpg" width="41" height="1079" alt="《尹至》第3简实物照片">
+          <img src="photos/pdf-p039-Im3.jpg" width="33" height="1079" alt="《尹至》第2简实物照片">
+          <img src="photos/pdf-p039-Im4.jpg" width="36" height="1079" alt="《尹至》第1简实物照片">
+        </div>
+        <figcaption><strong>《尹至》五简</strong><span>简序自右向左 · <a href="sources/qinghua-exhibition-2016-public.pdf#page=39">图版出处</a></span></figcaption>
+      </figure>
+    </section>
+    <section class="stats" aria-label="本次整理范围">
+      <div class="stat"><div class="stat-number">135</div><div class="stat-label">来源图片<small>整简、局部与概览</small></div></div>
+      <div class="stat"><div class="stat-number">169</div><div class="stat-label">编号简记录<small>选读、解释与待考</small></div></div>
+      <div class="stat"><div class="stat-number">21</div><div class="stat-label">篇目<small>本次公开图片所及</small></div></div>
+    </section>
+    <p class="scope">这里收录的是一批可公开查阅的清华简图片，并非清华简全集。同一支简可能有多张照片；图片数量不等于竹简数量。</p>
+    <section class="explore" aria-labelledby="explore-title">
+      <div class="section-head"><div><p class="eyebrow">Choose a starting point</p><h2 id="explore-title">选一篇，开始读</h2></div><a href="reading.html">查看全部篇目 <span aria-hidden="true">→</span></a></div>
+      <div class="cards">
+        <a class="card" href="reading.html#slip=%E5%B0%B9%E8%87%B3-1"><span class="category">政事 · 问答</span><h3>尹至</h3><p>伊尹来到汤的住处。一场关于夏政与民心的对话，由此展开。</p><span class="card-bottom">从简 1 读起 <span class="arrow" aria-hidden="true">→</span></span></a>
+        <a class="card" href="reading.html#slip=%E5%B0%81%E8%AE%B8%E4%B9%8B%E5%91%BD-002"><span class="category">册命 · 礼制</span><h3>封许之命</h3><p>“命汝侯于许。”受封的地位、政治责任与赏赐物品，写在同一道王命里。</p><span class="card-bottom">从存简 2 读起 <span class="arrow" aria-hidden="true">→</span></span></a>
+        <a class="card" href="reading.html#slip=qinwu-01"><span class="category">诗歌 · 乐章</span><h3>周公之琴舞</h3><p>循着诗句与乐章的排列，读周人对德行、孝与王政的劝诫。</p><span class="card-bottom">从简 1 读起 <span class="arrow" aria-hidden="true">→</span></span></a>
+        <a class="card" href="reading.html#slip=suanbiao-01"><span class="category">数术 · 运算</span><h3>算表</h3><p>竹简也可以组成乘法表。对齐行列与表头，看看古人怎样处理数字和分数。</p><span class="card-bottom">从表头简读起 <span class="arrow" aria-hidden="true">→</span></span></a>
+      </div>
+      <div class="more-texts"><span>也可以从这些篇目进入：</span><a href="reading.html#slip=%E5%B0%B9%E8%AF%B0-001">尹诰</a><a href="reading.html#slip=%E4%BF%9D%E8%AE%AD-1">保训</a><a href="reading.html#slip=%E6%A5%9A%E5%B1%85-1">楚居</a><a href="reading.html#slip=%E4%BA%94%E7%BA%AA-025">五纪</a></div>
+    </section>
+    <section class="method" id="method" aria-labelledby="method-title">
+      <div><p class="eyebrow">How to read this collection</p><h2 id="method-title">让解释有据可查，<br>也让疑问留在纸上。</h2><p class="method-intro">古文字的读法并不总能从一张照片直接确定。阅读器把图像观察、释文依据与解释并列，帮助你判断每一步从何而来。</p></div>
+      <div class="steps">
+        <div><span class="step-number">01</span><h3>先看原图</h3><p>切换整简与放大图，核对简号、字行和残断。小图看不清的地方，明确说明限制。</p></div>
+        <div><span class="step-number">02</span><h3>对照释文</h3><p>借助出版释文与学者校读，以通行字选读进入文本；每项保留采用的出处。</p></div>
+        <div><span class="step-number">03</span><h3>理解与存疑</h3><p>用白话解释句意和关键字词。不同读法、暂定判断与尚未识出的字，分别注明。</p></div>
+      </div>
+    </section>
+    <p class="quality"><strong>169 条记录的识读程度：</strong>155 条为来源辅助选读，9 条为暂定选读，5 条尚未可靠释出。选读并非完整逐字隶定，也不是独立 OCR 结果。“……”通常表示本次省略的文句，不自动表示竹简残缺。</p>
+  </main>
+  <footer class="site-footer"><div class="wrap footer-inner"><div><p class="footer-title">清华简 · 图像与识读笔记</p><p class="footer-note">个人整理项目，非清华大学官方网站。照片来自公开图录、馆方与研究机构页面；图片及出版物权利属于原权利人。原图出处与释读依据随各条记录列出。</p></div><nav class="footer-links" aria-label="资料与项目"><a href="annotations.json">识读数据</a><a href="image-index.json">图片索引</a><a href="sources/qinghua-exhibition-2016-public.pdf">公开图录</a><a href="https://github.com/imxj/qinghua-jian">GitHub 项目 ↗</a></nav></div></footer>
+</body>
+</html>

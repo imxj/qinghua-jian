@@ -1,0 +1,2586 @@
+{
+  "manuscripts": [
+    {
+      "name": "尹至",
+      "summary": "伊尹向汤报告夏政与民心，叙事从问答转为盟誓、征伐。五枚简可全部与公开图录对照。",
+      "context": "属于《尚书》一类的古代记言、叙事文本。本文的解释以图录整理读法为依据，不把它当作可以直接复原夏商年代每件史事的现场记录。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第38页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "name": "保训",
+      "summary": "托文王告诫太子发的场景，分别讲舜与微的故事，围绕“中”、敬慎与受命展开。",
+      "context": "“中”的含义是争论焦点；这里保留这种不确定性。11枚中第2枚上部残缺，阅读时必须把相邻简连续接读。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第70页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "上海书画出版社《楚简名品》照片选页",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "name": "楚居",
+      "summary": "依次记录楚先祖及国君的世系、居地与迁居缘由，把族源传说、礼俗故事和政治变乱编在一起。",
+      "context": "共16枚；“酓”常对应传世文献的“熊”。有多个罕见人名和地名，选读保留待核处，不用现代地名强行替代；早期神异叙事与后期政治记事也须区别看待。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第44页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "上海书画出版社《楚简名品》照片选页",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "name": "金縢",
+      "summary": "周公为武王代祷而封存文书，后受猜疑；成王打开封匮了解其心意，最终迎回周公。",
+      "context": "共14枚，第14枚只有篇末三字。清华简与传世《尚书》在年代、文字等处不同，本次以简本和该图录释文为基础，不拿通行本替换实物。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第20页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "name": "皇门",
+      "summary": "公开图录说明本篇与传世《逸周书·皇门》相关，记录周公告诫群臣、讨论为政任人的内容。",
+      "context": "当前仅有176×373像素的全篇概览。每个字只有很少像素，无法负责地逐简认字；这里只给篇级说明，不伪造逐简录文。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第13页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=13",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "name": "耆夜",
+      "summary": "图录将本篇放在早期诗歌、礼乐材料的背景下介绍，内容涉及武王时期宴饮与作歌。",
+      "context": "当前仅有166×306像素的全篇概览，能观察多简排列及残断，不能稳定分辨字形。没有在此次材料中找到可逐简对照的清晰释文页，因此不生成假定简号或全文。",
+      "sources": [
+        {
+          "label": "清华大学出版社公开图录，第14页",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=14",
+          "page": 14
+        }
+      ]
+    }
+  ],
+  "slips": [
+    {
+      "key": "尹至-1",
+      "manuscript": "尹至",
+      "number": 1,
+      "reading": "惟尹自夏徂亳，逯至在汤。汤曰：格，汝其有吉志。尹曰：后，我来，越今旬日……",
+      "reading_basis": "实物照片与图录第38页逐简原文、第40页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "单列竖写；可对照开头的“惟尹”及后段多次出现的“曰”字。",
+      "explanation": "开篇交代伊尹从夏地来到汤的住处，并以问答引出他的报告。这里的汤是后来商朝的开创者；这种安排使接下来对夏政的批评具有见闻报告的叙事形式。",
+      "terms": [
+        {
+          "term": "亳",
+          "meaning": "文中汤所居之地；具体历史地望并非从这张照片即可确定。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=39",
+          "page": 39
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=40",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "key": "尹至-2",
+      "manuscript": "尹至",
+      "number": 2,
+      "reading": "……其有后厥志其爽，宠二玉，弗虞其有众。民噂曰：余及汝皆亡……",
+      "reading_basis": "实物照片与图录第38页逐简原文、第40页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "整简与第1简等高；反复出现的“其”与“有”可结合排印释文定位。",
+      "explanation": "伊尹把统治者的失德、偏宠与不顾民众连在一起，随后引用百姓宁愿与其同亡的话。语气的激烈是这段文字说明夏统治失去支持的重点。",
+      "terms": [
+        {
+          "term": "二玉",
+          "meaning": "整理本联系琬、琰二女解释；这是一项文献比对后的解释。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "个别词义及断句采用该图录的方案，不代表所有整理意见一致。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=39",
+          "page": 39
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=40",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "key": "尹至-3",
+      "manuscript": "尹至",
+      "number": 3,
+      "reading": "亡典。夏有祥，在西在东，见章于天，其有民率曰：惟我速祸……胡今东祥不章？今……",
+      "reading_basis": "实物照片与图录第38页逐简原文、第40页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第3简有单独放大局部；“在西在东”“于天”的重复结构有助于对照。",
+      "explanation": "本简转向天象和民众的议论。古人把异常天象与政治吉凶相连，文中用这一套语言表现夏人盼望局势改变的心情，并为汤的行动提供叙事理由。",
+      "terms": [
+        {
+          "term": "祥",
+          "meaning": "这里泛指吉凶征兆，不只表示祥瑞。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=39",
+          "page": 39
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=40",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "key": "尹至-4",
+      "manuscript": "尹至",
+      "number": 4,
+      "reading": "……其如台？汤曰：汝告我夏隐率若时？尹曰：若时。汤盟誓及尹，兹乃柔大萦……",
+      "reading_basis": "实物照片与图录第38页逐简原文、第40页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "可见“汤曰”“尹曰”式短句；本简局部另有放大，便于观察墨笔转折。",
+      "explanation": "汤进一步确认夏地的情况，伊尹回应确实如此；叙事随即从情报报告转向结盟与行动。“如台”是古语问法，相当于怎么办。末句具体训释不宜仅凭字面定论。",
+      "terms": [
+        {
+          "term": "如台",
+          "meaning": "相当于“如何、奈何”。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "个别词义及断句采用该图录的方案，不代表所有整理意见一致。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=39",
+          "page": 39
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=40",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "key": "尹至-5",
+      "manuscript": "尹至",
+      "number": 5,
+      "reading": "……弗服，挚度，挚德不僭。自西捷西邑……帝曰：一勿遗。",
+      "reading_basis": "实物照片与图录第38页逐简原文、第40页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "篇末简仍为整支长简；字行连续，末尾短句可与第40页释文对应。",
+      "explanation": "末简讲征伐及命令，承接前面的盟誓。“不僭”强调行事无差失；结尾的命令十分简短而强烈。中间几处字词、断句仍难确定，因此这里只摘取来源中较明确的语句。",
+      "terms": [
+        {
+          "term": "不僭",
+          "meaning": "不差失、不逾越；具体语义仍须结合上下文讨论。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "个别词义及断句采用该图录的方案，不代表所有整理意见一致。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=39",
+          "page": 39
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=38",
+          "page": 38
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=40",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "key": "保训-1",
+      "manuscript": "保训",
+      "number": 1,
+      "reading": "惟王五十年，不豫。王念日之多历，恐坠宝训。戊子自靧水，己丑昧……",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第1简基本通长，开头纪年处有合文或重文式写法，不能按现代字数机械计算。",
+      "explanation": "文字以王的纪年和患病开头，交代为什么必须赶紧传下训诫。日期与洗面的细节使场景具体化；“王”在这篇叙事中被理解为周文王。末尾时间词续在残缺处。",
+      "terms": [
+        {
+          "term": "不豫",
+          "meaning": "古书中指身体不适、患病。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-2",
+      "manuscript": "保训",
+      "number": 2,
+      "reading": "〔简上部残缺〕……[王]若曰：发，朕疾……甚，恐不汝及……",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "图版可直接看出此简明显短于旁边整简，保存的是下段；缺失文字不能由照片恢复。",
+      "explanation": "这一简上部残失，下部保存王向“发”讲话。发是周武王之名，此时处在受训者位置。与下简接读，意思是担心病势过重，来不及把教诲传给他。",
+      "terms": [
+        {
+          "term": "若曰",
+          "meaning": "古代记言文中引出郑重讲话的格式。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "实物残缺按来源保留，不依据传世本自动补齐。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-3",
+      "manuscript": "保训",
+      "number": 3,
+      "reading": "训。昔前人传宝，必受之以詷。今朕疾允病，恐弗堪终。汝以书……",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "上承第2简“及”，开头“训”使句子跨简接续；本简有清楚的局部放大照片。",
+      "explanation": "文王先说前人传授珍贵教诲有一定方式，再说自己的病情已不容拖延，因此要求把训诫落实到书写材料。此处书面记录与口头传承的关系值得注意。",
+      "terms": [
+        {
+          "term": "詷",
+          "meaning": "来源用来说明口授之类传授方式；这个字的训释并非完全没有争议。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-4",
+      "manuscript": "保训",
+      "number": 4,
+      "reading": "受之。钦哉！勿淫！昔舜旧作小人，亲耕于历丘，恐求中。自稽厥志。",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页01正是此简，整支与分段放大并列；“中”字在下半段可结合旁释辨认。",
+      "explanation": "训诫开始举舜的例子：舜起初地位普通，以耕作生活，并反省自身、求取“中”。“勿淫”在这里是不要过度放纵。句中“中”的确切含义有争论，不能直接等同后来的固定学说。",
+      "terms": [
+        {
+          "term": "中",
+          "meaning": "本篇核心观念；可理解为合宜之道等，但学界有不同解释。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "“中”、若干德目及结尾断句有学术分歧，本条未消除这些争议。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-5",
+      "manuscript": "保训",
+      "number": 5,
+      "reading": "不违于庶万姓之多欲。厥有施于上下远迩，乃易位设稽，测……",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页02与PDF第5简对应，墨线较清楚，三条放大段不是三枚不同的简。",
+      "explanation": "这段把自我审察接到民众愿望与远近上下的关系上。“易位设稽”有不同解释，来源将其理解为改变位置或设立考察标准；可确定的是它在描述舜怎样认真处理事情。",
+      "terms": [
+        {
+          "term": "庶万姓",
+          "meaning": "众多百姓；不能按现代固定姓氏数量理解。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-6",
+      "manuscript": "保训",
+      "number": 6,
+      "reading": "阴阳之物，咸顺不逆。舜既得中，言不易实变名，身兹备，惟……",
+      "reading_basis": "实物照片与图录第70页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页03与PDF第6简对应；简边有小缺口，局部墨迹较淡，仍可借完整字行定位。",
+      "explanation": "本简继续说舜对事物的考察以及“得中”后的表现，强调名实、自身修养与谨慎。部分短句存在断读分歧；这里按公开图录的读法展示，解释只说明大致论旨。",
+      "terms": [
+        {
+          "term": "名实",
+          "meaning": "名称、言说与实际情况的关系；此处断句仍有讨论空间。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“中”、若干德目及结尾断句有学术分歧，本条未消除这些争议。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=71",
+          "page": 71
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=70",
+          "page": 70
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-7",
+      "manuscript": "保训",
+      "number": 7,
+      "reading": "允。翼翼不解，用作三降之德。帝尧嘉之，用授厥绪。呜呼！祗之……",
+      "reading_basis": "实物照片与图录第72页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页04对应第7简；开头承接上一简“惟允”，是跨简连续书写。",
+      "explanation": "舜的故事以尧赞许并传授事业作结，随后一声感叹加强告诫语气。“三降之德”并不是看到“三”就能直接确定的三项德目，具体指什么仍需考证。",
+      "terms": [
+        {
+          "term": "翼翼",
+          "meaning": "恭敬、谨慎的样子；“不解”通常读作不懈。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“中”、若干德目及结尾断句有学术分歧，本条未消除这些争议。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=73",
+          "page": 73
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=72",
+          "page": 72
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-8",
+      "manuscript": "保训",
+      "number": 8,
+      "reading": "哉！昔微假中于河，以复有易。有易服厥罪，微无害，乃归中于河……",
+      "reading_basis": "实物照片与图录第72页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第8简夹在第7、9简之间；“中”字在叙述中重复出现，需按整句理解。",
+      "explanation": "第二个例子讲微向“河”借取“中”，借此报复有易，然后归还。微通常联系商先祖上甲微，河通常联系河伯。故事强调获得、使用、归还的关系，但“中”究竟为何仍有争议。",
+      "terms": [
+        {
+          "term": "微",
+          "meaning": "通常解释为商先祖上甲微；这是文献对读的识别。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“中”、若干德目及结尾断句有学术分歧，本条未消除这些争议。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=73",
+          "page": 73
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=72",
+          "page": 72
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-9",
+      "manuscript": "保训",
+      "number": 9,
+      "reading": "……志弗忘，传贻子孙，至于成汤，祗服不解，用受大命。呜呼！发，敬哉……",
+      "reading_basis": "实物照片与图录第72页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "PDF把第9简拆成上、中、下三段放大；三张资源照片应顺次看作同一枚简。",
+      "explanation": "文字把先祖经验一路传到成汤，说明为什么后代能够受命，再转回对发的直接告诫。商与周的故事在这里连成一种政治教训：继承并敬慎实践祖先的经验。",
+      "terms": [
+        {
+          "term": "大命",
+          "meaning": "重大使命或天命；本文把它与王朝受命联系起来。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=73",
+          "page": 73
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=72",
+          "page": 72
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-10",
+      "manuscript": "保训",
+      "number": 10,
+      "reading": "兹不久，命未有所延。今汝祗服毋解，其有所由矣。不……",
+      "reading_basis": "实物照片与图录第72页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第10简靠近篇末；右邻第9简和左邻第11简提供跨简语意衔接。",
+      "explanation": "文王再次说自己的时日不多，要求受训者敬慎而不懈怠。末尾的“不”必须同下一简开头连读，不能单独理解成否定发承受天命。",
+      "terms": [
+        {
+          "term": "祗服",
+          "meaning": "敬慎奉行；“毋解”即不要懈怠。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=73",
+          "page": 73
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=72",
+          "page": 72
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "保训-11",
+      "manuscript": "保训",
+      "number": 11,
+      "reading": "及尔身受大命，敬哉！毋淫！日不足惟宿不详。",
+      "reading_basis": "实物照片与图录第72页逐简原文、第74页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "最后一简字数较前简少；整支照片保留较多空白，可以辨认篇章收尾。",
+      "explanation": "开头承上简的“不”，叙述者表示不能亲见发受命，随后再次要求敬慎。结尾短句的字义和断法仍有不同看法，宜把它理解为持续戒慎的收束，避免写成唯一确定的现代译文。",
+      "terms": [
+        {
+          "term": "宿不详",
+          "meaning": "来源联系戒慎解释；这里保留原读法，不把有争议短句强行逐字定译。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "“中”、若干德目及结尾断句有学术分歧，本条未消除这些争议。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=73",
+          "page": 73
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=72",
+          "page": 72
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=74",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "key": "楚居-1",
+      "manuscript": "楚居",
+      "number": 1,
+      "reading": "季连初降于〔山名待核〕，抵于穴穷。前出于乔山，宅处爰波。逆上汌水，见盘庚之子，处于方山，女曰妣隹……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页05对应第1简；全简右侧与四段放大可相互定位，开头“季”字有墨迹晕散。",
+      "explanation": "开篇从楚先祖季连的行迹讲起，把迁行、婚姻和商王盘庚的后裔联系起来。它表现的是楚人自己的祖先叙事，地名和神异色彩都需要与其他文献分别核对。",
+      "terms": [
+        {
+          "term": "季连",
+          "meaning": "楚人祖先传说中的重要人物。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-2",
+      "manuscript": "楚居",
+      "number": 2,
+      "reading": "……季连闻其有聘，从，及之泮，爰生〔人名待核〕伯、远仲。……先处于京宗。穴酓迟徙于京宗，爰得……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页06对应第2简；反复出现的“于京宗”及“酓”可作为对读锚点。",
+      "explanation": "这一简继续婚姻与子嗣的叙事，然后把世系接到穴酓。居住地“京宗”出现两次，说明作者同时记录人物传承与居地移动，并非只编一张父子关系表。",
+      "terms": [
+        {
+          "term": "酓",
+          "meaning": "这里用在楚先祖、君主名中，通常对应传世文献的“熊”。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-3",
+      "manuscript": "楚居",
+      "number": 3,
+      "reading": "妣〔名待核〕……乃妻之，生侸叔、丽季。丽不纵行，溃自肋出，妣〔名待核〕宾于天……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "出版社选页07对应第3简；段首墨迹有缺损，不能据旁边释文宣称每个字都从照片独立读出。",
+      "explanation": "讲到先祖婚配及异常出生：婴儿不能顺产，母亲去世，随后以“楚”处理伤处。此段属于族源故事，用先祖遭遇说明楚人的由来，神话叙述与可证历史应分开理解。",
+      "terms": [
+        {
+          "term": "宾于天",
+          "meaning": "古代委婉说法，指去世。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-4",
+      "manuscript": "楚居",
+      "number": 4,
+      "reading": "今曰楚人。至酓狂亦居京宗。至酓绎与屈紃……为楩室。室既成，无以内之，乃窃鄀人之犝以……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第4简有连续三段放大；上段接“今曰楚人”，后段叙述建室和取牛。",
+      "explanation": "先用“今曰楚人”收束族称故事，再讲熊绎时代建室而缺少祭品，于是偷取鄀人的小牛。这种不避贫困与窘迫的叙述，提供了楚人对早期立国处境的独特记忆。",
+      "terms": [
+        {
+          "term": "犝",
+          "meaning": "来源释为无角的小牛，作为祭祀牺牲。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-5",
+      "manuscript": "楚居",
+      "number": 5,
+      "reading": "祭。惧其主，夜而内尸……必夜。至酓只、酓〔名待核〕、酓樊……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "字行中连续出现“至”“酓”等模式；照片分辨率不够确认本简全部人名。",
+      "explanation": "开头解释为何仪式在夜里进行：怕被牛的主人发现。随后话题转为一连串君主及居地。对这种叙述应同时看到礼俗起源故事和世系记录两个层次，不能把“尸”简单当作尸体。",
+      "terms": [
+        {
+          "term": "尸",
+          "meaning": "祭礼中的代表者或相关仪式角色；此处宜放在祭祀语境解释。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-6",
+      "manuscript": "楚居",
+      "number": 6,
+      "reading": "……酓挚徙居旁屽。至酓延自旁屽徙居乔多。至酓勇及酓严、酓霜及酓雪及酓徇、酓咢及若敖酓仪，皆居乔多……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "“酓”连续出现，形成明显的人名串；逐名识别主要依靠原书逐简排印对照。",
+      "explanation": "本简以“徙居”“皆居”区分迁移和沿居，把多位楚君串在同一地点上。它的重要性在于提供居地连续性；这些旧地名不能直接按现代字面对应今天的城市。",
+      "terms": [
+        {
+          "term": "徙居",
+          "meaning": "迁徙后居住；与沿用原居地的记述相区别。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-7",
+      "manuscript": "楚居",
+      "number": 7,
+      "reading": "……至焚冒酓率自鄀徙居焚。至宵敖酓鹿自焚徙居宵。至武王酓〔名待核〕自宵徙居免，焉始□□□□□。",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本组图中该简下部残断；五个方框来自来源对残文的标记，不是新造释字。",
+      "explanation": "叙述从几代楚君连续迁居，到武王迁至“免”。简尾有真实残缺，正好位于一项新措施的说明中，因此缺掉的内容应保留为空白，不能根据后来城市史自行补上。",
+      "terms": [
+        {
+          "term": "武王",
+          "meaning": "此处是楚武王，与《金縢》里的周武王不同。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "实物残缺按来源保留，不依据传世本自动补齐。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-8",
+      "manuscript": "楚居",
+      "number": 8,
+      "reading": "……众不容于免，乃溃疆浧之陂而宇人焉，抵今曰郢。至文王自疆浧徙居〔地名待核〕郢……",
+      "reading_basis": "实物照片与图录第44页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第8简可见“郢”反复出现；个别地名的罕见字在现有图上不能可靠辨清。",
+      "explanation": "开头以人口无法容纳解释新的居住安排，随后说“到今天称为郢”。作者关注的既有迁都，也有安置民众、改变水陂或居住条件的问题；后半继续记楚文王的迁居。",
+      "terms": [
+        {
+          "term": "宇人",
+          "meaning": "在此语境中解释为安置人群居住。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=45",
+          "page": 45
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=44",
+          "page": 44
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-9",
+      "manuscript": "楚居",
+      "number": 9,
+      "reading": "……居免郢，焉改名之曰福丘。至堵敖自福丘徙袭鄀郢。至成王自鄀郢徙袭〔地名待核〕郢……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第9简有放大局部；“改名之曰”能与对应的地名叙述互相核对。",
+      "explanation": "本简明确记下把一个居地改称“福丘”，然后记堵敖、成王迁往旧有居地。“徙袭”值得留意，表示迁移后沿用某处，而非每次都新建都邑。",
+      "terms": [
+        {
+          "term": "徙袭",
+          "meaning": "迁往并沿用既有居地；来源将“袭”释为因袭、沿用。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-10",
+      "manuscript": "楚居",
+      "number": 10,
+      "reading": "……至穆王自睽郢徙袭为郢。至庄王徙袭樊郢，樊郢徙居同宫之北。若敖起祸，焉徙居蒸之野……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本简末段在原书排印中有残文方框；照片可用于确认残断位置，无法补出缺字。",
+      "explanation": "除了常规迁居，这里把若敖氏引起的变乱与迁居联系起来。地点转换因此不仅是地理信息，也折射王权与贵族关系的冲突；简末又有缺损，后续行程不能全部复原。",
+      "terms": [
+        {
+          "term": "若敖",
+          "meaning": "此处涉及楚国若敖氏的政治变乱，与同名先君须按上下文区分。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-11",
+      "manuscript": "楚居",
+      "number": 11,
+      "reading": "……至共王、康王、嗣子王皆居为郢。至灵王自为郢徙居秦溪之上，以为处于章[华之台]。",
+      "reading_basis": "实物照片与图录第46页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第11简有单独放大；结尾的“华之台”为来源据上下文补出的文字。",
+      "explanation": "先列三王沿居为郢，再写灵王迁到秦溪之上，并联系章华台。这样的记录把王的居所、政治中心和建筑活动放在一起；“居”未必每次都等于现代定义的正式迁都。",
+      "terms": [
+        {
+          "term": "秦溪",
+          "meaning": "来源联系传世文献中的乾谿；具体地望仍须考证。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-12",
+      "manuscript": "楚居",
+      "number": 12,
+      "reading": "景平王即位，猷居秦溪之上。至昭王自秦溪之上徙居媺郢……阖庐入郢……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第48页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本简“王”与“郢”字反复出现；“阖庐入郢”的识别采用来源释文对照。",
+      "explanation": "这段从平王、昭王居处写到吴王阖庐入郢。战争成为下一次迁行的转折点；文字用连续地名记录事件后果，使它能与传世的吴楚战争叙事互相参照。",
+      "terms": [
+        {
+          "term": "猷",
+          "meaning": "此处按“犹”理解，即仍然。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=48",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "key": "楚居-13",
+      "manuscript": "楚居",
+      "number": 13,
+      "reading": "居秦溪之上，秦溪之上复徙袭媺郢。至献惠王自媺郢徙袭为郢。白公起祸……改为之，焉曰肥……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第49页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本简有放大局部；末尾“肥”与下简“遗”相接，不能拆成两个地名。",
+      "explanation": "延续吴军入郢后的移动，再转到惠王及白公之乱。迁居、改造和更名被连在一起，说明政治冲突会改变居住安排。“肥”与下一简首字合起来才是完整地名。",
+      "terms": [
+        {
+          "term": "白公",
+          "meaning": "通常指白公胜；此处“起祸”说的是相关政治变乱。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=49",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "key": "楚居-14",
+      "manuscript": "楚居",
+      "number": 14,
+      "reading": "遗……王太子以邦复于〔地名待核〕郢，王自〔地名待核〕吁徙蔡……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第49页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "细长单行，罕见地名字较多；原图足以认出重复模式，不能保证逐字独立读清。",
+      "explanation": "开头“遗”接上简组成“肥遗”。后面区分太子率国众的去向与国王自己的移动，显示王与太子不一定始终同处一地。若干地名含罕见字，本次保留待核，不强行对应现代地名。",
+      "terms": [
+        {
+          "term": "王太子以邦",
+          "meaning": "太子带领国众或国的相关人群；具体“邦”的范围仍可讨论。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=49",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "key": "楚居-15",
+      "manuscript": "楚居",
+      "number": 15,
+      "reading": "……居疆郢。王自蔡复鄢。柬大王自疆郢徙居蓝郢……王太子以邦居〔地名待核〕郢……",
+      "reading_basis": "实物照片与图录第46页逐简原文、第49页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "同一简内重复“自”“居”“郢”，构成迁徙记事的格式。",
+      "explanation": "继续区分君王与太子的居处，并记到简王时代。文本保留“柬大王”一类称谓和多处含“郢”的名字，提醒我们这里记录的是一套古代专名体系，而不是同一座城市的反复出现。",
+      "terms": [
+        {
+          "term": "柬大王",
+          "meaning": "来源所用楚简称谓，通常联系楚简王。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=49",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "key": "楚居-16",
+      "manuscript": "楚居",
+      "number": 16,
+      "reading": "……至悼哲王猷居〔地名待核〕郢。中谢起祸，焉徙袭肥遗。邦大瘠，焉徙居鄩郢。",
+      "reading_basis": "实物照片与图录第46页逐简原文、第49页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "末简字数较少；“肥遗”“鄩郢”可在原书排印与照片中对照定位。",
+      "explanation": "末简记到悼王时期，两次移动分别与变乱和“邦大瘠”相连。“中谢起祸”的具体史事尚不清楚；“大瘠”被来源解释为疾疫。篇章最后落在居地变化上，保持全篇的记事重点。",
+      "terms": [
+        {
+          "term": "邦大瘠",
+          "meaning": "来源解释为国中发生严重疾疫；不是仅凭“大瘠”便能确定具体疾病。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "“待核”处是本次未确认的字名；不是断言实物在此残缺。",
+        "古地名和罕见人名的具体对应仍需专门考证；“酓”保留来源写法，通常对应“熊”。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=47",
+          "page": 47
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=46",
+          "page": 46
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=49",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "key": "金縢-1",
+      "manuscript": "金縢",
+      "number": 1,
+      "reading": "武王既克殷三年，王不豫有迟。二公告周公曰：我其为王穆卜。周公曰：未可以……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "图版第1简位于该组最右；开头纪年是校勘传世文本的重要位置。",
+      "explanation": "开篇说武王灭殷三年后生病，二公建议占卜，周公则提出不同处理方式。清华简的“三年”与传世篇章记时不同；此处按简本展示，不能用通行本直接替换。",
+      "terms": [
+        {
+          "term": "穆卜",
+          "meaning": "郑重进行占卜；二公是参与处置王病的两位重臣。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-2",
+      "manuscript": "金縢",
+      "number": 2,
+      "reading": "戚吾先王。周公乃为三坛同墠，为一坛于南方。周公立焉，秉璧植珪。史乃册……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第2简有独立放大局部；“璧”“珪”等祭祀词须结合来源释文辨识。",
+      "explanation": "周公不愿轻率惊动先王，随后自己安排祭祀场所和玉器，由史官宣读祝辞。空间布置与玉器动作是祈祷仪式的一部分；这里将古字“坦”规范写作“坛”。",
+      "terms": [
+        {
+          "term": "墠",
+          "meaning": "经过清理的祭祀空地，与筑起的坛相配。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-3",
+      "manuscript": "金縢",
+      "number": 3,
+      "reading": "祝告先王曰：尔元孙发也，遘害虐疾。尔毋乃有备子之责在上，惟尔元孙发也……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第3简局部放大可看墨色与笔画；祝辞里“尔”“发”等字提供重复对照点。",
+      "explanation": "这一简开始正式祝辞，以“元孙发”把周武王放在先王的亲缘关系中，说明他患重病。后文周公愿代之承担，正是通过祖先祭祀的话语来表达忠诚与求救。",
+      "terms": [
+        {
+          "term": "元孙发",
+          "meaning": "先王的后裔发；“发”为周武王名。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-4",
+      "manuscript": "金縢",
+      "number": 4,
+      "reading": "不若旦也，是佞若巧能，多才多艺，能事鬼神。命于帝廷，溥有四方，以定尔子……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "连续竖写，句中人名“旦”与同页他简的“公”须按叙事角色分别理解。",
+      "explanation": "周公以“旦”自称，强调自己能侍奉鬼神，作为愿意代王承担的理由。祝辞又转向保有四方、安定后裔的愿望，因此个人代祷与王朝延续在这一段连在一起。",
+      "terms": [
+        {
+          "term": "旦",
+          "meaning": "周公的名；这里不是表示早晨。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-5",
+      "manuscript": "金縢",
+      "number": 5,
+      "reading": "孙于下地。尔之许我，我则晋璧与珪。尔不我许，我乃以璧与珪归。周公乃纳其……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第5简有放大局部；两组“璧与珪”是反复句式的可见锚点。",
+      "explanation": "先接完安定子孙的祈求，再以祖先允诺与否规定玉器如何处置。重复的“尔……我……”是祝辞对话结构；结尾开始叙述周公把这次文书收藏起来。",
+      "terms": [
+        {
+          "term": "晋璧与珪",
+          "meaning": "按来源读法指进献璧与珪；须放在祭祀动作中理解。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-6",
+      "manuscript": "金縢",
+      "number": 6,
+      "reading": "所为功自以代王之说于金縢之匮，乃命执事人曰：勿敢言。就后武王陟，成王犹幼……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第6简位于本页左侧；“勿敢言”与后文同一句相呼应。",
+      "explanation": "周公把愿代武王的文书封存，并要求办事者保密。随后武王去世、成王年幼，故事进入辅政时期。封存文书后来成为证明周公心意的关键，这也是篇名的由来。",
+      "terms": [
+        {
+          "term": "金縢之匮",
+          "meaning": "用金属封束的匣柜；“金縢”指封缄方式。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-7",
+      "manuscript": "金縢",
+      "number": 7,
+      "reading": "在位。管叔及其群兄弟乃流言于邦曰：公将不利于孺子。周公乃告二公曰：我之……",
+      "reading_basis": "实物照片与图录第20页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本组最后一简，文末句子未完，须接下一页第8简；不能把换页当作换篇。",
+      "explanation": "成王在位后，管叔等人散布周公将危害幼王的言论。前面的代祷被保密，使公众不能据此了解周公的心意；这造成全篇由忠诚转入猜疑的冲突。",
+      "terms": [
+        {
+          "term": "孺子",
+          "meaning": "此处指年幼的成王。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=21",
+          "page": 21
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=20",
+          "page": 20
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-8",
+      "manuscript": "金縢",
+      "number": 8,
+      "reading": "□□□□亡以复见于先王。周公适东三年，祸人乃斯得。于后周公乃遗王诗……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "照片可见简首残断；四个方框沿用图录的缺字标记。",
+      "explanation": "简首缺四字，不能完整恢复周公先前的表态。后面记周公赴东三年，再向成王送诗。有关这次赴东的性质，传世文献和历代解释不同；这里先保留简本文字。",
+      "terms": [
+        {
+          "term": "适东",
+          "meaning": "赴东方；不在此把其政治、军事性质定为唯一解释。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "实物残缺按来源保留，不依据传世本自动补齐。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-9",
+      "manuscript": "金縢",
+      "number": 9,
+      "reading": "曰《雕鸮》，王亦未逆公。是岁也，秋大熟，未获。天疾风以雷，禾斯偃，大木斯拔。邦人……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第9简从诗名接上简；“禾”“大木”等内容与随后农业灾变段对应。",
+      "explanation": "成王收到诗仍未迎接周公。庄稼将熟未收时遇到暴风雷雨，叙事由政治疑惧转向天灾。此灾在后文被成王理解为显示周公之德的警示。",
+      "terms": [
+        {
+          "term": "逆",
+          "meaning": "这里是迎接，不是违逆。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-10",
+      "manuscript": "金縢",
+      "number": 10,
+      "reading": "〔简首残缺〕……以启金縢之匮。王得周公之所自以为功以代武王之说。王问执……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第10简也有上端缺损；本次不把缺损部分用传世本自动补齐。",
+      "explanation": "众人开启封匮，成王看到周公当年愿代武王的文书。情节转折依靠一件被保存的书面材料：过去未公开的祝辞现在成为可以查验的证据。简首仪式语因残缺只作略读。",
+      "terms": [
+        {
+          "term": "启匮",
+          "meaning": "打开收藏文书的匣柜。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。",
+        "实物残缺按来源保留，不依据传世本自动补齐。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-11",
+      "manuscript": "金縢",
+      "number": 11,
+      "reading": "事人，曰：信。噫，公命我勿敢言。王布书以泣，曰：昔公勤劳王家，惟余冲人亦弗……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "字行完整，关键短句“勿敢言”在另一简已有对应，可以进行重复文本核对。",
+      "explanation": "办事者证实文书真实，并解释一直沉默是奉周公之命。成王展开文书哭泣，承认自己不知周公的贡献；与第6简相同的“勿敢言”把两段情节扣在一起。",
+      "terms": [
+        {
+          "term": "冲人",
+          "meaning": "年轻君主的谦称。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-12",
+      "manuscript": "金縢",
+      "number": 12,
+      "reading": "知。今皇天动威，以章公德。惟余冲人其亲逆公，我邦家礼亦宜之。王乃出逆公……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "第12简包含成王自称和迎公的决定，与下简的出行地点相接。",
+      "explanation": "成王把天灾解释为上天彰明周公之德，并决定亲自迎接。这一解释体现篇章所塑造的天人、君臣关系；它是文中的政治宗教理解，不是现代气象因果说明。",
+      "terms": [
+        {
+          "term": "章公德",
+          "meaning": "使周公的德行显明；“章”作彰明理解。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-13",
+      "manuscript": "金縢",
+      "number": 13,
+      "reading": "至郊。是夕，天反风，禾斯起。凡大木之所拔，二公命邦人尽复筑之。岁大有年，秋……",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "此简有上中下三段放大；每段都是同一枚第13简，不应误当三枚新简。",
+      "explanation": "王到郊外迎公之后，风势转变、倒伏庄稼恢复，众人又把拔起的大树扶正培土。故事将和解与灾后恢复并写，最后引出丰收；“复筑”也是具体的恢复劳动。",
+      "terms": [
+        {
+          "term": "大有年",
+          "meaning": "年成很好、获得丰收。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。",
+        "省略号表示本次省略的文句，不表示该处必然有实物残缺。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "key": "金縢-14",
+      "manuscript": "金縢",
+      "number": 14,
+      "reading": "则大获。",
+      "reading_basis": "实物照片与图录第22页逐简原文、第24页释文对照；只选取能够较稳妥定位的语句。",
+      "visual_observation": "本简字数很少，整简图上可见大段空白；原书第22页也只列“则大获”。",
+      "explanation": "这一简仅以三个字收束，接上一简末的“秋”组成“秋则大获”。前面从王病、代祷、猜疑到和解的故事，最终以丰收作结。简上空白较多属于篇末书写布局，不能直接认作大量漏字。",
+      "terms": [
+        {
+          "term": "获",
+          "meaning": "收获庄稼。"
+        }
+      ],
+      "uncertainties": [
+        "这是来源辅助的规范化选读，不是逐字独立OCR或完整隶定；标点为便于阅读所加。"
+      ],
+      "sources": [
+        {
+          "label": "实物照片所在图版",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=23",
+          "page": 23
+        },
+        {
+          "label": "原书按简号排列的古文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=22",
+          "page": 22
+        },
+        {
+          "label": "规范化读法所参照的释文",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=24",
+          "page": 24
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "fudan-baoxun",
+      "slip_keys": [
+        "保训-1",
+        "保训-2",
+        "保训-3",
+        "保训-4",
+        "保训-5",
+        "保训-6",
+        "保训-7",
+        "保训-8",
+        "保训-9",
+        "保训-10",
+        "保训-11"
+      ],
+      "observation": "图下明列11至1的简号；第2简上部缺失，左右相邻简保存较长。本图可校验简序，但单字较小；关联到同篇官方较清楚图版和来源辅助选读。",
+      "status": "低分辨率概览·关联清晰图版",
+      "limitations": [
+        "本图只支持概览、顺序和残断形态核对；文字选读请转看同篇正式图版。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im0",
+      "slip_keys": [
+        "保训-5"
+      ],
+      "observation": "本图为《保训》第5简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im1",
+      "slip_keys": [
+        "保训-4"
+      ],
+      "observation": "本图为《保训》第4简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im2",
+      "slip_keys": [
+        "保训-3"
+      ],
+      "observation": "本图为《保训》第3简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im3",
+      "slip_keys": [
+        "保训-2"
+      ],
+      "observation": "本图为《保训》第2简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im4",
+      "slip_keys": [
+        "保训-1"
+      ],
+      "observation": "本图为《保训》第1简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im5",
+      "slip_keys": [
+        "保训-6"
+      ],
+      "observation": "本图为《保训》第6简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im6",
+      "slip_keys": [
+        "保训-5"
+      ],
+      "observation": "本图为《保训》第5简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im7",
+      "slip_keys": [
+        "保训-3"
+      ],
+      "observation": "本图为《保训》第3简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p071-Im8",
+      "slip_keys": [
+        "保训-1"
+      ],
+      "observation": "本图为《保训》第1简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im0",
+      "slip_keys": [
+        "保训-10"
+      ],
+      "observation": "本图为《保训》第10简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im1",
+      "slip_keys": [
+        "保训-9"
+      ],
+      "observation": "本图为《保训》第9简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im2",
+      "slip_keys": [
+        "保训-8"
+      ],
+      "observation": "本图为《保训》第8简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im3",
+      "slip_keys": [
+        "保训-7"
+      ],
+      "observation": "本图为《保训》第7简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im4",
+      "slip_keys": [
+        "保训-11"
+      ],
+      "observation": "本图为《保训》第11简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im5",
+      "slip_keys": [
+        "保训-9"
+      ],
+      "observation": "本图为《保训》第9简放大，上段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im6",
+      "slip_keys": [
+        "保训-9"
+      ],
+      "observation": "本图为《保训》第9简放大，中段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p073-Im7",
+      "slip_keys": [
+        "保训-9"
+      ],
+      "observation": "本图为《保训》第9简放大，下段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "publisher-01",
+      "slip_keys": [
+        "保训-4"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《保训》第4简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "publisher-02",
+      "slip_keys": [
+        "保训-5"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《保训》第5简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "publisher-03",
+      "slip_keys": [
+        "保训-6"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《保训》第6简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "publisher-04",
+      "slip_keys": [
+        "保训-7"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《保训》第7简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "museum-08",
+      "slip_keys": [
+        "尹至-1",
+        "尹至-2",
+        "尹至-3",
+        "尹至-4",
+        "尹至-5"
+      ],
+      "observation": "馆方图显示《尹至》五枚简，底部简号从左至右为五至一；与公开图录第39页的五简相对应。图中文字较小，逐简解释采用较清楚图版和来源释文。",
+      "status": "低分辨率概览·关联清晰图版",
+      "limitations": [
+        "本图只支持概览、顺序和残断形态核对；文字选读请转看同篇正式图版。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im0",
+      "slip_keys": [
+        "尹至-5"
+      ],
+      "observation": "本图为《尹至》第5简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im1",
+      "slip_keys": [
+        "尹至-4"
+      ],
+      "observation": "本图为《尹至》第4简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im2",
+      "slip_keys": [
+        "尹至-3"
+      ],
+      "observation": "本图为《尹至》第3简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im3",
+      "slip_keys": [
+        "尹至-2"
+      ],
+      "observation": "本图为《尹至》第2简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im4",
+      "slip_keys": [
+        "尹至-1"
+      ],
+      "observation": "本图为《尹至》第1简，编号已按原图版从右到左的印刷简号复核。字行和完整/残断形态可见，规范化选读借助原书逐简排印及释文。",
+      "status": "来源辅助识读·整简",
+      "limitations": [
+        "原JPEG宽度有限；罕见字不能仅凭单图稳定识别。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im5",
+      "slip_keys": [
+        "尹至-4"
+      ],
+      "observation": "本图为《尹至》第4简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im6",
+      "slip_keys": [
+        "尹至-3"
+      ],
+      "observation": "本图为《尹至》第3简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p039-Im7",
+      "slip_keys": [
+        "尹至-1"
+      ],
+      "observation": "本图为《尹至》第1简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p014-Im0",
+      "slip_keys": [
+        "楚居-1",
+        "楚居-2",
+        "楚居-3",
+        "楚居-4",
+        "楚居-5",
+        "楚居-6",
+        "楚居-7",
+        "楚居-8",
+        "楚居-9",
+        "楚居-10",
+        "楚居-11",
+        "楚居-12",
+        "楚居-13",
+        "楚居-14",
+        "楚居-15",
+        "楚居-16"
+      ],
+      "observation": "这是《楚居》在图录正文中的小型概览，字符高度只有数个像素。下列简号关联自同篇正式图版，不是凭这张小图独立识出的结果。",
+      "status": "低分辨率概览·关联清晰图版",
+      "limitations": [
+        "本图只支持概览、顺序和残断形态核对；文字选读请转看同篇正式图版。"
+      ]
+    },
+    {
+      "id": "pdf-p045-Im0",
+      "slip_keys": [
+        "楚居-1",
+        "楚居-2",
+        "楚居-3",
+        "楚居-4",
+        "楚居-5",
+        "楚居-6",
+        "楚居-7",
+        "楚居-8"
+      ],
+      "observation": "图中依原书顺序并列《楚居》第1—8简。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-p045-Im1",
+      "slip_keys": [
+        "楚居-4"
+      ],
+      "observation": "本图为《楚居》第4简放大，上段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p045-Im2",
+      "slip_keys": [
+        "楚居-4"
+      ],
+      "observation": "本图为《楚居》第4简放大，中段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p045-Im3",
+      "slip_keys": [
+        "楚居-4"
+      ],
+      "observation": "本图为《楚居》第4简放大，下段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p047-Im0",
+      "slip_keys": [
+        "楚居-11"
+      ],
+      "observation": "本图为《楚居》第11简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p047-Im1",
+      "slip_keys": [
+        "楚居-13"
+      ],
+      "observation": "本图为《楚居》第13简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p047-Im2",
+      "slip_keys": [
+        "楚居-9",
+        "楚居-10",
+        "楚居-11",
+        "楚居-12",
+        "楚居-13",
+        "楚居-14",
+        "楚居-15",
+        "楚居-16"
+      ],
+      "observation": "图中依原书顺序并列《楚居》第9—16简。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-p047-Im3",
+      "slip_keys": [
+        "楚居-9"
+      ],
+      "observation": "本图为《楚居》第9简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "publisher-05",
+      "slip_keys": [
+        "楚居-1"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《楚居》第1简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "publisher-06",
+      "slip_keys": [
+        "楚居-2"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《楚居》第2简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "publisher-07",
+      "slip_keys": [
+        "楚居-3"
+      ],
+      "observation": "已将本选页的首尾文字与公开图录核对：这是《楚居》第3简。细长全简和旁边数条放大段是同一枚竹简，现代旁释不是竹简正文。",
+      "status": "来源辅助识读",
+      "limitations": [
+        "读文参考页内旁释与官方图录；不声称所有古文字均为独立识出。",
+        "本页只涵盖这一枚简，不是全篇。"
+      ]
+    },
+    {
+      "id": "pdf-p013-Im0",
+      "slip_keys": [],
+      "observation": "能看出多枚竹简竖向并列、部分简有断口或长短差异；当前176×373像素不足以可靠辨认楚文字笔画。可确认篇名来自原图注，不能由这张小图生成逐简文字。",
+      "status": "分辨率不足·篇级说明",
+      "limitations": [
+        "仅能说明篇章和形制；暂无可靠逐简释读。",
+        "未用传世同名篇的文字冒充本张照片所写内容。"
+      ]
+    },
+    {
+      "id": "pdf-p014-Im1",
+      "slip_keys": [],
+      "observation": "能看出多枚竹简竖向并列、部分简有断口或长短差异；当前166×306像素不足以可靠辨认楚文字笔画。可确认篇名来自原图注，不能由这张小图生成逐简文字。",
+      "status": "分辨率不足·篇级说明",
+      "limitations": [
+        "仅能说明篇章和形制；暂无可靠逐简释读。",
+        "未用传世同名篇的文字冒充本张照片所写内容。"
+      ]
+    },
+    {
+      "id": "museum-03",
+      "slip_keys": [
+        "金縢-1",
+        "金縢-2",
+        "金縢-3",
+        "金縢-4",
+        "金縢-5",
+        "金縢-6",
+        "金縢-7",
+        "金縢-8",
+        "金縢-9",
+        "金縢-10",
+        "金縢-11",
+        "金縢-12",
+        "金縢-13",
+        "金縢-14"
+      ],
+      "observation": "馆方图展示《金縢》14简，底部保留简号；中间残短简及篇末少字简可与官方图版对应。这里用于看全篇排列，不把小图当作可逐字独立识读的高清照片。",
+      "status": "低分辨率概览·关联清晰图版",
+      "limitations": [
+        "本图只支持概览、顺序和残断形态核对；文字选读请转看同篇正式图版。"
+      ]
+    },
+    {
+      "id": "pdf-p012-Im1",
+      "slip_keys": [
+        "金縢-1",
+        "金縢-2",
+        "金縢-3",
+        "金縢-4",
+        "金縢-5",
+        "金縢-6",
+        "金縢-7",
+        "金縢-8",
+        "金縢-9",
+        "金縢-10",
+        "金縢-11",
+        "金縢-12",
+        "金縢-13",
+        "金縢-14"
+      ],
+      "observation": "这是《金縢》在图录正文中的小型概览，字符高度只有数个像素。下列简号关联自同篇正式图版，不是凭这张小图独立识出的结果。",
+      "status": "低分辨率概览·关联清晰图版",
+      "limitations": [
+        "本图只支持概览、顺序和残断形态核对；文字选读请转看同篇正式图版。"
+      ]
+    },
+    {
+      "id": "pdf-p021-Im0",
+      "slip_keys": [
+        "金縢-1",
+        "金縢-2",
+        "金縢-3",
+        "金縢-4",
+        "金縢-5",
+        "金縢-6",
+        "金縢-7"
+      ],
+      "observation": "图中依原书顺序并列《金縢》第1—7简。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-p021-Im1",
+      "slip_keys": [
+        "金縢-2"
+      ],
+      "observation": "本图为《金縢》第2简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p021-Im2",
+      "slip_keys": [
+        "金縢-5"
+      ],
+      "observation": "本图为《金縢》第5简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p021-Im3",
+      "slip_keys": [
+        "金縢-3"
+      ],
+      "observation": "本图为《金縢》第3简局部。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p023-Im0",
+      "slip_keys": [
+        "金縢-8",
+        "金縢-9",
+        "金縢-10",
+        "金縢-11",
+        "金縢-12",
+        "金縢-13",
+        "金縢-14"
+      ],
+      "observation": "图中依原书顺序并列《金縢》第8—14简。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-p023-Im1",
+      "slip_keys": [
+        "金縢-13"
+      ],
+      "observation": "本图为《金縢》第13简放大，下段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p023-Im2",
+      "slip_keys": [
+        "金縢-13"
+      ],
+      "observation": "本图为《金縢》第13简放大，上段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-p023-Im3",
+      "slip_keys": [
+        "金縢-13"
+      ],
+      "observation": "本图为《金縢》第13简放大，中段。已与整简及图录原文对应；下列解释属于该枚整简，局部照片可能只包含其中数词。",
+      "status": "来源辅助识读·局部",
+      "limitations": [
+        "这是裁出的局部或分段，不能把整简选读当成本张局部全部可见。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p071",
+      "slip_keys": [
+        "保训-1",
+        "保训-2",
+        "保训-3",
+        "保训-4",
+        "保训-5",
+        "保训-6"
+      ],
+      "observation": "图中依原书顺序并列《保训》第1—6简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p073",
+      "slip_keys": [
+        "保训-7",
+        "保训-8",
+        "保训-9",
+        "保训-10",
+        "保训-11"
+      ],
+      "observation": "图中依原书顺序并列《保训》第7—11简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p039",
+      "slip_keys": [
+        "尹至-1",
+        "尹至-2",
+        "尹至-3",
+        "尹至-4",
+        "尹至-5"
+      ],
+      "observation": "图中依原书顺序并列《尹至》第1—5简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p045",
+      "slip_keys": [
+        "楚居-1",
+        "楚居-2",
+        "楚居-3",
+        "楚居-4",
+        "楚居-5",
+        "楚居-6",
+        "楚居-7",
+        "楚居-8"
+      ],
+      "observation": "图中依原书顺序并列《楚居》第1—8简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p047",
+      "slip_keys": [
+        "楚居-9",
+        "楚居-10",
+        "楚居-11",
+        "楚居-12",
+        "楚居-13",
+        "楚居-14",
+        "楚居-15",
+        "楚居-16"
+      ],
+      "observation": "图中依原书顺序并列《楚居》第9—16简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p021",
+      "slip_keys": [
+        "金縢-1",
+        "金縢-2",
+        "金縢-3",
+        "金縢-4",
+        "金縢-5",
+        "金縢-6",
+        "金縢-7"
+      ],
+      "observation": "图中依原书顺序并列《金縢》第1—7简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p023",
+      "slip_keys": [
+        "金縢-8",
+        "金縢-9",
+        "金縢-10",
+        "金縢-11",
+        "金縢-12",
+        "金縢-13",
+        "金縢-14"
+      ],
+      "observation": "图中依原书顺序并列《金縢》第8—14简，并含重复放大的局部。下列每条按简号解释，放大段不另算新简。",
+      "status": "来源辅助识读·组图",
+      "limitations": [
+        "整组图需放大并结合简号阅读；选读依赖原书释文对照。"
+      ]
+    }
+  ]
+}

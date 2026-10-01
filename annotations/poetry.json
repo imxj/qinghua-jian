@@ -1,0 +1,3196 @@
+{
+  "manuscripts": [
+    {
+      "name": "说命",
+      "summary": "现存上篇7简、中篇7简、下篇9简；写傅说的被发现、受命和君臣间的劝戒。",
+      "context": "傅说的“说”读Yuè。上篇偏重传说性叙事，中、下篇以武丁的训辞为主。下篇篇首缺简；本数据分别保留上中下的简号，不能把三个“第一简”合并。宽式读法以2016年公开图录为基准，不以传世伪古文《说命》替代简本。",
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "name": "周公之琴舞",
+      "summary": "17支编号简保存周公及成王相关的儆戒乐诗，反复强调敬慎、受谏、修德和勤政。",
+      "context": "图录将其理解为周公一篇及成王九章的乐诗组合；“启”是每章开始部分，“乱”是结束部分。编号是物理简序，乐章常跨简。第15简上部缺损，第17简存篇末短句；不把缺文补成流畅完整诗篇。",
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "name": "良臣",
+      "summary": "11支简按君主或重要人物列举师、相、臣和辅佐者，从黄帝叙到春秋诸国。",
+      "context": "这是一份保存古代人物传统的名录，反复的“有”和粗横分隔很醒目；某些人名、时代关系与传世文献不同，也有疑似同人重复。解释记录“简文这样说”，不把名录直接当作无误的历史履历。",
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    }
+  ],
+  "slips": [
+    {
+      "key": "shuoming-shang-01",
+      "manuscript": "说命",
+      "number": 1,
+      "reading": "惟殷王赐说于天，庸为失仲使人。王命厥百工向，以货徇求说于邑人。惟弼人",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "在第27页七支整简中核对编号；照片可见纵向墨书，细笔画需借助旁附原文与释文。",
+      "explanation": "故事开头把傅说的出现解释为上天赐贤。殷王让百工制作形像，并带财物到人群中寻找他。此简末的“弼人”还要接下一简才成句；这里叙述的是君主如何寻得贤臣。",
+      "terms": [
+        {
+          "term": "说",
+          "meaning": "人名傅说，读 Yuè。"
+        },
+        {
+          "term": "向",
+          "meaning": "本书释为傅说的画像。"
+        },
+        {
+          "term": "徇求",
+          "meaning": "遍处访求。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-02",
+      "manuscript": "说命",
+      "number": 2,
+      "reading": "得说于傅岩，厥俾绷弓，引关辟矢。说方筑城，縢降庸力，厥说之状，腕",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "在第27页七支整简中核对编号；照片可见纵向墨书，细笔画需借助旁附原文与释文。",
+      "explanation": "寻找者在傅岩找到正在筑城劳动的傅说。这段还写到弓箭、绳索及劳作的身体形态；若干动作词难以仅凭照片讲定，但“从劳作之人中发现贤者”的叙事线索清楚。末字要与下一简连读。",
+      "terms": [
+        {
+          "term": "傅岩",
+          "meaning": "傅说被找到的地点。"
+        },
+        {
+          "term": "縢",
+          "meaning": "绳索。"
+        }
+      ],
+      "uncertainties": [
+        "“绷弓，引关辟矢”等词沿用本册释读，动作细节仍有解释空间。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-03",
+      "manuscript": "说命",
+      "number": 3,
+      "reading": "肩如椎。王乃讯说曰：“帝抑尔以畀余，抑非？”说乃曰：“惟，帝以余畀尔，尔左执朕袂，尔右",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "在第27页七支整简中核对编号；照片可见纵向墨书，细笔画需借助旁附原文与释文。",
+      "explanation": "殷王询问傅说是否真由上天赐予自己，傅说肯定地回答，并描述拉住衣袖、行礼的情景。这是在确认梦中或神意中的相遇，不宜把简上古字“说”误读成普通动词“说话”。",
+      "terms": [
+        {
+          "term": "畀",
+          "meaning": "给予。"
+        },
+        {
+          "term": "袂",
+          "meaning": "衣袖。"
+        },
+        {
+          "term": "椎",
+          "meaning": "槌；这里形容身体的样子。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-04",
+      "manuscript": "说命",
+      "number": 4,
+      "reading": "稽首。”王曰：“亶然。”天乃命说伐失仲，失仲是生子，生二牡豕。失仲卜曰：“我其杀之？”“我其",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第27页右侧专门放大第四简，能对照“王曰”、二豕及卜问等字组。",
+      "explanation": "殷王认可傅说所言，随后叙事转到征伐失仲。失仲生下两个被称作“牡豕”的儿子，并占卜是否杀掉他们。这一段有鲜明的传说色彩，不能把“牡豕”直接当作可靠的生物事实。",
+      "terms": [
+        {
+          "term": "稽首",
+          "meaning": "古代跪拜礼。"
+        },
+        {
+          "term": "亶然",
+          "meaning": "确实如此。"
+        },
+        {
+          "term": "牡豕",
+          "meaning": "公猪；本书将它理解为对子嗣性情的描写。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-05",
+      "manuscript": "说命",
+      "number": 5,
+      "reading": "已，勿杀？”勿杀是吉。失仲违卜，乃杀一豕。说于围伐失仲，一豕乃旋保以逝，乃践□，邑",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "在第27页七支整简中核对编号；照片可见纵向墨书，细笔画需借助旁附原文与释文。",
+      "explanation": "卜问给出的吉兆是不杀，失仲却违背结果杀了其中一个。傅说围攻失仲时，另一个退走，随后当地局势被平定。末段有难以可靠转写的字，故保留方框，不用顺畅故事替代缺乏把握的文字。",
+      "terms": [
+        {
+          "term": "已",
+          "meaning": "停止、作罢。"
+        },
+        {
+          "term": "违卜",
+          "meaning": "违背占卜所得的指示。"
+        },
+        {
+          "term": "践",
+          "meaning": "此处依本书释作攻灭。"
+        }
+      ],
+      "uncertainties": [
+        "“践”之后一字本次未作可靠字形转写，□不表示照片上必有缺损。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-06",
+      "manuscript": "说命",
+      "number": 6,
+      "reading": "人皆从□，一豕随仲之自行，是为赤孚之戎。其惟说邑，在北海之州，是惟圜土。说",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "在第27页七支整简中核对编号；照片可见纵向墨书，细笔画需借助旁附原文与释文。",
+      "explanation": "这一简接着交代邑人归服、另一支人群的去向，以及与傅说相关的邑所在。篇中夹有族群名称和地理说明，具体对应的历史地望并不由照片自动确定；此处只按简文说明关系。",
+      "terms": [
+        {
+          "term": "从",
+          "meaning": "归服。"
+        },
+        {
+          "term": "赤孚之戎",
+          "meaning": "简文中的族群称谓。"
+        },
+        {
+          "term": "圜土",
+          "meaning": "此处保留原词，具体地理含义不作断定。"
+        }
+      ],
+      "uncertainties": [
+        "“从”后一字未可靠转写；“赤孚”与“圜土”等古名、古词不据此锁定现代地名。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-shang-07",
+      "manuscript": "说命",
+      "number": 7,
+      "reading": "来，自从事于殷，王用命说为公。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "编号七的整简文字明显较少，下部留白；与故事结尾的短句相符。",
+      "explanation": "故事以傅说来到殷、开始为殷王效力并被任命为公收束。从筑城劳作者到受命重臣，前面寻找、确认及征伐等情节，都在这里汇入任贤的主题。“公”的具体职权不能只靠这几个字推定。",
+      "terms": [
+        {
+          "term": "用",
+          "meaning": "于是、因而。"
+        },
+        {
+          "term": "命",
+          "meaning": "任命。"
+        },
+        {
+          "term": "公",
+          "meaning": "此处为授予傅说的尊位。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=26",
+          "page": 26
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=27",
+          "page": 27
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=28",
+          "page": 28
+        }
+      ],
+      "section": "上"
+    },
+    {
+      "key": "shuoming-zhong-01",
+      "manuscript": "说命",
+      "number": 1,
+      "reading": "说来自傅岩，在殷。武丁朝于门，入在宗。王原比厥梦，曰：“汝来惟帝命。”说",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第31页有七支编号整简，另列第三、五、七简局部；整简窄幅不能支持所有字的独立辨识。",
+      "explanation": "傅说来到殷后，武丁在宗庙相关场合接见他，并再次把真人与自己的梦相对照，认定这是上天的安排。末尾“说”是下一句的说话人，不能在这里当作动词补出内容。",
+      "terms": [
+        {
+          "term": "宗",
+          "meaning": "宗庙。"
+        },
+        {
+          "term": "原比",
+          "meaning": "再次察验、比对。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-02",
+      "manuscript": "说命",
+      "number": 2,
+      "reading": "曰：“允若时。”武丁曰：“来格汝说，听戒朕言，渐之于乃心。若金，用惟汝作砺。古",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第31页有七支编号整简，另列第三、五、七简局部；整简窄幅不能支持所有字的独立辨识。",
+      "explanation": "傅说确认武丁的判断。武丁随即要求他牢记训告，又用金属与磨石作比喻：臣下要能磨砺君主，使其不断修正。这里呈现的是需要忠告的君主，而不是只要求臣下顺从的关系。",
+      "terms": [
+        {
+          "term": "允若时",
+          "meaning": "确实如此。"
+        },
+        {
+          "term": "渐",
+          "meaning": "进入、浸润；此处指把话记进心里。"
+        },
+        {
+          "term": "砺",
+          "meaning": "磨刀石，比喻劝谏和磨砺。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-03",
+      "manuscript": "说命",
+      "number": 3,
+      "reading": "我先王灭夏，燮强，捷蠢邦，惟庶相之力胜，用孚自迩。敬之哉！启乃心，日沃",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第三简局部放大可见与先王灭夏有关的一串字形，配第30页分简原文定位。",
+      "explanation": "武丁用先王战胜夏的往事说明众臣协力的重要，继而要求傅说敞开心意，每日帮助君主。此简结尾的“日沃”须接下一简“朕心”，意在让忠告像浇灌一样持续滋养君主的思考。",
+      "terms": [
+        {
+          "term": "庶相",
+          "meaning": "众多辅佐之臣。"
+        },
+        {
+          "term": "沃",
+          "meaning": "浇灌；在这里比喻启发、教益。"
+        }
+      ],
+      "uncertainties": [
+        "“燮强，捷蠢邦”等征伐用语沿用本册释文，不把每一字的借读视为已独立证实。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-04",
+      "manuscript": "说命",
+      "number": 4,
+      "reading": "朕心。若药，如不瞑眩，越疾罔瘳。朕畜汝，惟乃腹，非乃身。若天旱，汝作淫雨。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第31页有七支编号整简，另列第三、五、七简局部；整简窄幅不能支持所有字的独立辨识。",
+      "explanation": "这一简连续使用治病和解旱的比喻：有效的药可能令人不适，正直的劝谏也可能逆耳；任用傅说看重的是内在心志。国家或君主陷入困境时，他应像久旱后的充沛雨水一样发挥作用。",
+      "terms": [
+        {
+          "term": "瞑眩",
+          "meaning": "服药后昏眩不适。"
+        },
+        {
+          "term": "瘳",
+          "meaning": "病愈。"
+        },
+        {
+          "term": "淫雨",
+          "meaning": "此处指充沛的雨。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-05",
+      "manuscript": "说命",
+      "number": 5,
+      "reading": "若津水，汝作舟。汝惟兹说底之于乃心。且天出不祥，不徂远，在厥落，汝克",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第五简局部放大可对照“舟”“汝惟”等字组。",
+      "explanation": "话语又用渡水之舟比喻贤臣的帮助，要求傅说牢记这些嘱托。接着提醒他：祸患可能就在近处，必须察看实际处境。末尾“汝克”尚未成句，应与下一简合读，不能独立译成完整命令。",
+      "terms": [
+        {
+          "term": "津",
+          "meaning": "渡水之处。"
+        },
+        {
+          "term": "底之于心",
+          "meaning": "使这些话安定地留在心中。"
+        },
+        {
+          "term": "徂",
+          "meaning": "往、去。"
+        }
+      ],
+      "uncertainties": [
+        "“在厥落”具体所指较难确定，本解释只保留警惕近处不祥的语境。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-06",
+      "manuscript": "说命",
+      "number": 6,
+      "reading": "□视四方，乃俯视地。心毁惟备。敬之哉，用惟多德。且惟口起戎出好，惟干戈作",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第31页有七支编号整简，另列第三、五、七简局部；整简窄幅不能支持所有字的独立辨识。",
+      "explanation": "武丁劝傅说广看四方，也留意眼前脚下，用谨慎补足心思的欠缺。随后指出口中的话既能引起冲突，也能促成友好。这里把修德、观察和言语责任连起来，末句兵戈之害还跨到下一简。",
+      "terms": [
+        {
+          "term": "毁、备",
+          "meaning": "依本书：欠缺与完备。"
+        },
+        {
+          "term": "戎",
+          "meaning": "战争、争斗。"
+        },
+        {
+          "term": "好",
+          "meaning": "友好关系。"
+        }
+      ],
+      "uncertainties": [
+        "简首一字在公开释文中以特殊字形呈现，本次用□，不凭上下文擅补。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-zhong-07",
+      "manuscript": "说命",
+      "number": 7,
+      "reading": "疾，惟衣载病，惟干戈眚厥身。若抵不视，用伤，吉不吉。余告汝若时，志之于乃心。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第七简放大显示警告伤害的句中部分；全文仍须参照释文。",
+      "explanation": "这一简接续冲突与伤害的警告，强调做事如果不察看就贸然触碰，可能由吉转凶。结尾再次要求傅说把训诫记在心中。中间“衣载病”等词的具体解读不够确定，解释以谨慎自持的整体语境为限。",
+      "terms": [
+        {
+          "term": "眚",
+          "meaning": "灾害、损伤。"
+        },
+        {
+          "term": "志",
+          "meaning": "记住。"
+        }
+      ],
+      "uncertainties": [
+        "“惟衣载病”“若抵不视”沿用本册读法，但局部字义仍不宜断言。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=30",
+          "page": 30
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=31",
+          "page": 31
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=32",
+          "page": 32
+        }
+      ],
+      "section": "中"
+    },
+    {
+      "key": "shuoming-xia-01",
+      "manuscript": "说命",
+      "number": 1,
+      "reading": "〔篇首缺简〕员，经德配天，余罔有斁言，小臣罔俊在朕服。余惟命汝说融朕命，余柔远",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页第一简位于整组右端；照片有文字，但篇章前端的缺失来自第36页编辑说明，不能由这张照片独立证明。",
+      "explanation": "现存第一简接在已经失去的篇首之后，内容是君主要求以德配天、任用能臣，并把落实王命的责任交给傅说。因为开头缺了一整简，不能从现存首字倒推出完整开场；本段结尾仍接下简。",
+      "terms": [
+        {
+          "term": "经德配天",
+          "meaning": "以持久的德行与天相配。"
+        },
+        {
+          "term": "朕服",
+          "meaning": "君主所承担的政事。"
+        }
+      ],
+      "uncertainties": [
+        "本册第36页注称篇首一简缺失；这里的编号1指现存编号。首字“员”等细部沿用释文，句首语法不完整。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-02",
+      "manuscript": "说命",
+      "number": 2,
+      "reading": "能迩，以益视事，弼永延，作余一人。王曰：“说，既亦诣乃服，勿易俾越。如飞",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页第二简局部放大可见“余一人、王曰、说”等字组。",
+      "explanation": "这一简先接“柔远能迩”，要求兼顾远近、协助理政，长久辅佐君主。随后用飞鸟作警戒的比喻，告诫傅说到任后不改其志、不使职责失坠。鸟的比喻要到下一简才说完。",
+      "terms": [
+        {
+          "term": "柔远能迩",
+          "meaning": "安抚远方、亲近近处的人群。"
+        },
+        {
+          "term": "视事",
+          "meaning": "治理政务。"
+        },
+        {
+          "term": "服",
+          "meaning": "所任事务、职责。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-03",
+      "manuscript": "说命",
+      "number": 3,
+      "reading": "雀罔畏离，不惟鹰隼，乃弗虞民，厥其祸亦罗于□。”王曰：“说，汝毋忘曰：余克亯",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页九支现存编号简与第二、四简放大图可相互定位；文本通常写满整简，释读采用本册宽式文字。",
+      "explanation": "飞鸟如果不防网罗和猛禽就会受害，臣下同样要警惕来自人的危险。接着王要求傅说不忘向君主履职。比喻的重点是防患和尽责，不能把不确定的末字擅自补成明确的人名或地名。",
+      "terms": [
+        {
+          "term": "鹰隼",
+          "meaning": "猛禽。"
+        },
+        {
+          "term": "虞",
+          "meaning": "防备。"
+        },
+        {
+          "term": "亯",
+          "meaning": "享的古字，这里有进献、奉献之意。"
+        }
+      ],
+      "uncertainties": [
+        "“罗于”后的特殊字形本次未可靠转写，用□保留。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-04",
+      "manuscript": "说命",
+      "number": 4,
+      "reading": "于朕辟，其又乃司四方民丕克明，汝惟有万寿在乃政。汝亦惟克显天，恫瘝小",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页第四简局部放大展示治理四方民众一段。",
+      "explanation": "君主要求傅说在治理四方民众时明察、称职，以政绩承受祝福；又要求他体会百姓的病苦。末尾“小”必须与下一简“民”相接。“万寿”在这里是政治训诫中的祝愿，不是实际寿命记录。",
+      "terms": [
+        {
+          "term": "辟",
+          "meaning": "君主。"
+        },
+        {
+          "term": "恫瘝",
+          "meaning": "痛苦、病苦；此处指关切百姓疾苦。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-05",
+      "manuscript": "说命",
+      "number": 5,
+      "reading": "民，中乃罚，汝亦惟有万福业业在乃服。”王曰：“说，昼如视日，夜如视辰，时罔非乃",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页九支现存编号简与第二、四简放大图可相互定位；文本通常写满整简，释读采用本册宽式文字。",
+      "explanation": "体恤小民落实到公正用刑。其后以白昼看太阳、夜间看星辰为比喻，要求傅说随时留心职责和行动的准则。福寿之语与勤政相联，表达的是对合宜政治行为的期望。",
+      "terms": [
+        {
+          "term": "中乃罚",
+          "meaning": "使刑罚合乎中正。"
+        },
+        {
+          "term": "辰",
+          "meaning": "星辰。"
+        },
+        {
+          "term": "业业",
+          "meaning": "此处保留古词，表达盛多或郑重之貌。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-06",
+      "manuscript": "说命",
+      "number": 6,
+      "reading": "载。敬之哉。若贾，汝毋非货如□石。”王曰：“说，余既諟劼毖，汝使若玉冰，上下罔不我",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页九支现存编号简与第二、四简放大图可相互定位；文本通常写满整简，释读采用本册宽式文字。",
+      "explanation": "君主要求谨慎识人识物，像商人不能把贵重货物错当普通石头一样，不应误判人才或价值。后半用玉与冰的形象寄托清明、端正的要求。个别字义未定，不能据此扩写成具体的买卖故事。",
+      "terms": [
+        {
+          "term": "贾",
+          "meaning": "商人。"
+        },
+        {
+          "term": "玉冰",
+          "meaning": "依字面保留玉、冰的比喻。"
+        }
+      ],
+      "uncertainties": [
+        "“□石”前字及“諟劼毖”细读未独立辨清；本册释文有特殊字体，故保留未定。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-07",
+      "manuscript": "说命",
+      "number": 7,
+      "reading": "仪。”王曰：“说，昔在大戊，克渐五祀，天章之用九德，弗易百姓。惟时大戊谦曰：余不克",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页九支现存编号简与第二、四简放大图可相互定位；文本通常写满整简，释读采用本册宽式文字。",
+      "explanation": "武丁转而举先王大戊为榜样，叙述其祭祀、德行和对百姓的态度，并引出大戊自认不足的谦辞。此处是在借祖先故事教导执政者，具体“五祀”“九德”的制度内容不能仅由此简一一复原。",
+      "terms": [
+        {
+          "term": "大戊",
+          "meaning": "商王名，常写作太戊。"
+        },
+        {
+          "term": "章",
+          "meaning": "彰显。"
+        },
+        {
+          "term": "九德",
+          "meaning": "古代概括德行的术语。"
+        }
+      ],
+      "uncertainties": [],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-08",
+      "manuscript": "说命",
+      "number": 8,
+      "reading": "辟万民，余罔坠天休，式惟三德赐我，吾乃敷之于百姓。余惟弗雍天之嘏命。”",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页九支现存编号简与第二、四简放大图可相互定位；文本通常写满整简，释读采用本册宽式文字。",
+      "explanation": "大戊的谦辞接续下来：自知统治万民责任重大，因此不敢丢失上天赐予的美善，应把所得德惠施及百姓。文意把天命与施政相联系；“三德”所列具体内容在这支简上并未说明。",
+      "terms": [
+        {
+          "term": "天休",
+          "meaning": "上天赐予的美善、嘉惠。"
+        },
+        {
+          "term": "敷",
+          "meaning": "施布。"
+        },
+        {
+          "term": "嘏命",
+          "meaning": "美善或宏大的命。"
+        }
+      ],
+      "uncertainties": [
+        "“三德”的具体所指未见本简列举，不在此补作三项。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "shuoming-xia-09",
+      "manuscript": "说命",
+      "number": 9,
+      "reading": "王曰：“说，毋独乃心，敷之于朕政，欲汝其有友勑朕命哉。”",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第35页最左侧第九简后段较长留白，符合收束篇章的短段。",
+      "explanation": "篇末把要求归结为实际政治：傅说不要把自己的心志和见识独自藏着，而要施用于王政，帮助落实并整饬君命。这里强调贤臣的知识应转化为共同治理，而不止停留在个人修养。",
+      "terms": [
+        {
+          "term": "毋独乃心",
+          "meaning": "不要独自保有自己的心志。"
+        },
+        {
+          "term": "勑",
+          "meaning": "整饬、督促；通行字常写敕。"
+        }
+      ],
+      "uncertainties": [
+        "末句“有友勑”保留本册释读，词组的精确语法仍可讨论。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=34",
+          "page": 34
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=35",
+          "page": 35
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=36",
+          "page": 36
+        }
+      ],
+      "section": "下"
+    },
+    {
+      "key": "qinwu-01",
+      "manuscript": "周公之琴舞",
+      "number": 1,
+      "reading": "周公作多士儆毖，琴舞九絉。元纳启曰：“无悔享君，罔坠其孝，享惟慆帀，孝惟型帀。”成",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第51页第一简局部及出版社选页08均可见篇首“周公”、多士等字形。",
+      "explanation": "开头介绍周公为众士所作的儆戒乐诗，并标出“元纳”“启”等演奏结构。诗句要求事君尽职、保持孝行。末字“成”属于下一简的“成王”；这一简既有乐章说明，也有被引出的歌辞。",
+      "terms": [
+        {
+          "term": "多士",
+          "meaning": "众多的士、官员。"
+        },
+        {
+          "term": "儆毖",
+          "meaning": "警戒、告诫。"
+        },
+        {
+          "term": "九絉",
+          "meaning": "本书释为奏乐九曲。"
+        },
+        {
+          "term": "启",
+          "meaning": "每章的开始部分。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“无悔”“慆帀”等借读和虚词写法沿用2016年本册；不以本释文代表唯一学界读法。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        },
+        {
+          "label": "上海书画出版社《楚简名品》清华简选页公开展览",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "key": "qinwu-02",
+      "manuscript": "周公之琴舞",
+      "number": 2,
+      "reading": "王作儆毖，琴舞九絉。元纳启曰：“敬之敬之，天惟显帀，文非易帀。毋曰高高在上，陟降其事，卑监",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "出版社选页09有第二简整支和分段放大；起首“王”接前简“成”。",
+      "explanation": "转入成王的自我儆戒。第一章反复说“敬之”，提醒自己不要以为上天高远便可松懈，因为上天仍在观察人事。这段与传世《周颂·敬之》相近，却不能把传世本不同的字直接覆盖到照片上。",
+      "terms": [
+        {
+          "term": "陟降",
+          "meaning": "升降、上下。"
+        },
+        {
+          "term": "卑监",
+          "meaning": "依本册读为使其监视之意，连下简“在兹”。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "本册作“文非易”，传世诗常见“命不易”；这里保留简本释文。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        },
+        {
+          "label": "上海书画出版社《楚简名品》清华简选页公开展览",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "key": "qinwu-03",
+      "manuscript": "周公之琴舞",
+      "number": 3,
+      "reading": "在兹。”乱曰：“遹我夙夜不逸，儆之，日就月将，教其光明。弼持其有肩，示告余显德之行。”再启",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "出版社选页10对应第三简，能与第51页第三简局部相互核对。",
+      "explanation": "第一章的结束部分希望朝夕不懈、日月进益，并请辅佐者扶持自己的责任，指示有德的行为。最后“再启”预告下一章开始；“乱”是乐章结尾的名称，在此不是混乱的意思。",
+      "terms": [
+        {
+          "term": "乱",
+          "meaning": "乐章结束的部分。"
+        },
+        {
+          "term": "日就月将",
+          "meaning": "日有成就、月有进步。"
+        },
+        {
+          "term": "肩",
+          "meaning": "承担、担当。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        },
+        {
+          "label": "上海书画出版社《楚简名品》清华简选页公开展览",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "key": "qinwu-04",
+      "manuscript": "周公之琴舞",
+      "number": 4,
+      "reading": "曰：“假哉古之人，夫明思慎，用仇其有辟，允丕承丕显，思攸亡斁。”乱曰：“已，不造哉！思型之，",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第二章赞美古人明察而谨慎、能够辅佐君主，又转向检讨自身不足，希望效法前人的德行。歌辞通过赞古与自警相接，表达学习典范的态度；这里的“仇”应在辅佐、匹配的语境中理解。",
+      "terms": [
+        {
+          "term": "假",
+          "meaning": "大、美。"
+        },
+        {
+          "term": "有辟",
+          "meaning": "君主。"
+        },
+        {
+          "term": "型",
+          "meaning": "取作典范、效法。"
+        },
+        {
+          "term": "斁",
+          "meaning": "厌倦。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-05",
+      "manuscript": "周公之琴舞",
+      "number": 5,
+      "reading": "思曼伸之，用求其定，裕彼熙不落，思慎。”三启曰：“德元惟何？曰渊亦抑，严余不懈，业业畏",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "先接第二章，愿持续发扬所学以求安定，然后以“德的根本是什么”发问，开始第三章。答案指向深厚、谦抑和不懈怠。末尾“畏”与下一简相连，诗意从效法古人转到自身的戒慎。",
+      "terms": [
+        {
+          "term": "德元",
+          "meaning": "德行的根本。"
+        },
+        {
+          "term": "抑",
+          "meaning": "谦抑。"
+        },
+        {
+          "term": "业业",
+          "meaning": "谨慎不安的样子。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“裕彼熙不落”词义不够明朗，不将其扩写为确定的历史事件。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-06",
+      "manuscript": "周公之琴舞",
+      "number": 6,
+      "reading": "忌，不易威仪，在言惟克，敬之！”乱曰：“非天廞德，繄莫肯造之，夙夜不懈，懋敷其有悦，裕其",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第三章继续要求守住威仪，言语有节制；结束部分又把重点放在人的行动上，督促朝夕努力、广布美好。某些词的借读难定，但整段始终围绕敬慎和主动修德展开，不是单靠天降福泽。",
+      "terms": [
+        {
+          "term": "威仪",
+          "meaning": "举止仪态与应有的规范。"
+        },
+        {
+          "term": "懋",
+          "meaning": "勉力、努力。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“廞德”“繄”等难词沿用本册，因字义未完全明朗，解释采用保守概括。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=50",
+          "page": 50
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=51",
+          "page": 51
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-07",
+      "manuscript": "周公之琴舞",
+      "number": 7,
+      "reading": "文人，不逸监余。”四启曰：“文文其有家，保监其有后，孺子王矣，丕宁其有心。□其在位，显于",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第53页第七简被分作三段放大，可连续核对同一支简的上、中、下段。",
+      "explanation": "第三章结尾请有文德的先祖关注自己，第四章转而祈求家国和后嗣受到保佑与监督。新王以年轻继承者的身份出现，愿安定心志、在位有成。简中的祈愿同时带着受先祖约束的意味。",
+      "terms": [
+        {
+          "term": "文人",
+          "meaning": "这里指有文德的先祖。"
+        },
+        {
+          "term": "孺子",
+          "meaning": "年轻的继承者。"
+        },
+        {
+          "term": "保监",
+          "meaning": "保佑并监督。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“其在位”前一字本册特殊字形未可靠转写，以□表示。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=52",
+          "page": 52
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=53",
+          "page": 53
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-08",
+      "manuscript": "周公之琴舞",
+      "number": 8,
+      "reading": "上下。”乱曰：“遹其显思，皇天之功，昼之在视日，夜之在视晨。日入辠举不宁，是惟宅。”五启曰：“呜",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第四章结束部分把白日、夜晚以及日落后的勤勉相连，表现居位者持续警觉的责任。随后第五章以“呜呼”发端，但感叹词被分写在两简。昼夜描写是自警歌辞，不必据此推演具体祭礼日程。",
+      "terms": [
+        {
+          "term": "皇天",
+          "meaning": "尊称上天。"
+        },
+        {
+          "term": "晨",
+          "meaning": "这里依语境指夜间的星辰。"
+        },
+        {
+          "term": "呜呼",
+          "meaning": "感叹语，跨第八、九简。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“日入辠举不宁”的细读不易，未强行解释每个字。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=52",
+          "page": 52
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=53",
+          "page": 53
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-09",
+      "manuscript": "周公之琴舞",
+      "number": 9,
+      "reading": "呼！天多降德，滂滂在下，攸自求悦，诸尓多子，逐思忱之。”乱曰：“桓称其有若，曰享答余一人，",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第53页第九简中下部可见断裂接合痕迹，不能把断裂误作新的简号。",
+      "explanation": "第五章以流布广大来形容上天降德，并向众人发出诚恳承应的要求。结束部分希望他们回应、协助君主。简文同时有天命话语和对群臣的实际期待，不能只把它当成抽象祈福。",
+      "terms": [
+        {
+          "term": "滂滂",
+          "meaning": "广大流布的样子。"
+        },
+        {
+          "term": "多子",
+          "meaning": "对在场众人的称呼，具体身份须结合全篇。"
+        },
+        {
+          "term": "忱",
+          "meaning": "诚。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“桓称其有若”释义未完全明朗，此处不逐字硬译。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=52",
+          "page": 52
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=53",
+          "page": 53
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-10",
+      "manuscript": "周公之琴舞",
+      "number": 10,
+      "reading": "思辅余于艰，乃禔惟民，亦思不怠。”六启曰：“其余冲人，服在清庙，惟克小心，命不夷歇，对",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第五章要求群臣在艰难时辅佐君主，使民众安定；第六章则由君主自称“冲人”，表示年轻而谦逊。他在清庙承担职责，唯有小心谨慎才能延续所受之命，两章的关怀都落在勤政上。",
+      "terms": [
+        {
+          "term": "禔",
+          "meaning": "安定。"
+        },
+        {
+          "term": "冲人",
+          "meaning": "年幼无知之人，君主自谦。"
+        },
+        {
+          "term": "清庙",
+          "meaning": "清肃的宗庙。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=52",
+          "page": 52
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=53",
+          "page": 53
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-11",
+      "manuscript": "周公之琴舞",
+      "number": 11,
+      "reading": "天之不易。”乱曰：“弼敢荒在位，宠威在上，警显在下。呜呼！式克其有辟，用容辑余，用小心，",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第六章继续强调天命不易保有，不敢居位而荒废职责。结束部分希望臣下恭敬相助，使君主谨慎地完成自己的角色。“宠威在上、警显在下”把上下双方放在同一套警戒与责任关系中。",
+      "terms": [
+        {
+          "term": "不易",
+          "meaning": "不容易；也有不可轻忽之意。"
+        },
+        {
+          "term": "荒",
+          "meaning": "荒怠。"
+        },
+        {
+          "term": "辑",
+          "meaning": "协调、帮助。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“弼敢”“容辑”等读法沿用本册，句法仍存在解释余地。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=52",
+          "page": 52
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=53",
+          "page": 53
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-12",
+      "manuscript": "周公之琴舞",
+      "number": 12,
+      "reading": "持惟文人之若。”七启曰：“思有息，思熹在上，丕显其有位，右帝在落，不失惟同。”乱曰：“遹余恭",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第55页右侧有第十二简局部，原照片中可见较清楚的墨书笔画。",
+      "explanation": "接着希望得到先祖的认可，第七章祈愿在上者安宁喜悦、王位显荣，并进入自我劝勉的结束部分。古诗中有不少今义难定的词，能稳妥说明的是它把先祖、天帝与在位者的恭敬连在一起。",
+      "terms": [
+        {
+          "term": "若",
+          "meaning": "认可、顺应；此处依语境理解。"
+        },
+        {
+          "term": "右",
+          "meaning": "佑助。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“有息”“在落”“不失惟同”不强作逐字定译。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-13",
+      "manuscript": "周公之琴舞",
+      "number": 13,
+      "reading": "害怠，孝敬肥怠荒。咨尓多子，笃其谏劭，余逯思念，畏天之载，勿请福之愆。八启曰：“佐事王",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "第七章向众人征求切实的劝谏，君主表示会记取，并敬畏天所赋予的职责；随后第八章开始谈辅佐君王。这里的政治理想包括接受批评，福祉也须与谨慎行事相配。",
+      "terms": [
+        {
+          "term": "谏",
+          "meaning": "指出过失、进言劝止。"
+        },
+        {
+          "term": "劭",
+          "meaning": "劝勉。"
+        },
+        {
+          "term": "愆",
+          "meaning": "过失。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“害怠”“肥怠荒”等字组沿用本册，精确训诂暂不作结论。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-14",
+      "manuscript": "周公之琴舞",
+      "number": 14,
+      "reading": "聪明，其有心不易，威仪□，大其有谟，匄泽恃德，不畀用非雍。”乱曰：“良德其如台？曰享人大",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第55页第十四简局部对应第八章歌辞。",
+      "explanation": "第八章期望君主明察而坚定，具有合宜的举止和宏大的谋划，并以德为施惠的依据。结束部分提出“良德如何”的问题，但下一简前部缺失，使答句不完整，因此只能解释保存下来的主题。",
+      "terms": [
+        {
+          "term": "聪明",
+          "meaning": "听察明白、明敏。"
+        },
+        {
+          "term": "谟",
+          "meaning": "谋划。"
+        },
+        {
+          "term": "如台",
+          "meaning": "如何。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“威仪”后有本次未可靠转写的特殊字形；□表示识读限制，不精确表示字数，也不据此认定竹简损坏。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-15",
+      "manuscript": "周公之琴舞",
+      "number": 15,
+      "reading": "〔前缺约十四或十五字〕罔克用之，是坠于若。”九启曰：“呜呼！弼敢荒德，德",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第55页编号十五的竹简上段缺失，只存下段；旁列局部放大可见残文。",
+      "explanation": "这支简上段缺损，上一章关于良德的回答已不能完整读出。存文随后开始第九章，提醒自己不敢荒废德行。解释必须从实际残存的字出发，不把前后诗意拼成一段看似完整的原文。",
+      "terms": [
+        {
+          "term": "荒德",
+          "meaning": "荒废德行。"
+        },
+        {
+          "term": "九启",
+          "meaning": "第九章的开始部分。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "照片可见第十五简仅存下段；本册第57页注明缺十四或十五字。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-16",
+      "manuscript": "周公之琴舞",
+      "number": 16,
+      "reading": "非惰帀，纯惟敬帀，文非动帀，不坠修彦。”乱曰：“遹我敬之，弗其坠哉，思丰其复，惟福思",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "按第51、53、55页印刷简号核对位置；可见墨迹、竹纹及编绳处横向痕迹，通行字释读借助原文页。",
+      "explanation": "末章强调不懈怠、专一敬慎，并以“我将敬之、不使坠失”的自勉收束。继而祈求丰厚的回报或护佑，连接最后一简的福寿祝愿。部分古词仍难确解，但篇末反复出现的“敬”非常明确。",
+      "terms": [
+        {
+          "term": "纯",
+          "meaning": "专一。"
+        },
+        {
+          "term": "复",
+          "meaning": "本书列有回报、庇护两种解释。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。",
+        "“修彦”等词义不定；“复”保留本书列出的异解。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "qinwu-17",
+      "manuscript": "周公之琴舞",
+      "number": 17,
+      "reading": "庸，黄耇惟盈。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第55页第十七简很短，末端不整齐；现存文字只有篇末短句。",
+      "explanation": "全篇以福祉和长寿的祝愿结束。“黄耇”指年高之人或高寿。照片中这一支只见很少几个字，下面是残断的竹材；短句是前一简的延续，不是另起一篇完整的诗。",
+      "terms": [
+        {
+          "term": "黄耇",
+          "meaning": "高龄、长寿。"
+        }
+      ],
+      "uncertainties": [
+        "所给字串是通假整理后的宽式释读；难字仍有研究空间，不等于原字形摹本。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=54",
+          "page": 54
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=55",
+          "page": 55
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=56",
+          "page": 56
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=57",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "key": "liangchen-01",
+      "manuscript": "良臣",
+      "number": 1,
+      "reading": "黄帝之师：女和、章人〔疑〕、保侗。尧之相舜，舜有禹，禹有伯夷，有益，有史皇，有咎",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "出版社选页11与第65页第一简相同，可对照“黄帝之师”及其后连续人名；三段放大不是三支简。",
+      "explanation": "篇首按“君主—辅佐者”的方式罗列人物，从黄帝的师到尧、舜、禹的臣属。“有”反复出现，说明文本像一份贤臣名录。这里记录的是这篇战国文献的说法，不能直接等同于已验证的上古任职表。",
+      "terms": [
+        {
+          "term": "女和、保侗",
+          "meaning": "简文所列黄帝之师的名字。"
+        },
+        {
+          "term": "章人",
+          "meaning": "旁附出版社图版释作章人，具体名号仍保留疑问。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "第二名的特殊字形在本PDF释文中无法正常抽取；上海书画出版社选页11释“章人”，本次据此标疑。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        },
+        {
+          "label": "上海书画出版社《楚简名品》清华简选页公开展览",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "key": "liangchen-02",
+      "manuscript": "良臣",
+      "number": 2,
+      "reading": "囚。唐有伊尹，有伊陟，有臣扈。武丁有傅说，有保衡。文王有闳夭，有泰",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65、67页整简有清楚印刷编号；可见多个“又”形字，宽式释读按语法写作“有”。粗黑横画是原有分隔标记，不是把文字涂去。",
+      "explanation": "首字接上简“咎”构成人名，然后转到商汤、武丁和周文王的辅臣。一个人名常跨越两支竹简，例如本简末的“泰”要接下一简“颠”。因此读名录时必须先确定编联顺序。",
+      "terms": [
+        {
+          "term": "咎囚",
+          "meaning": "本书联系到皋陶这一名字的异写。"
+        },
+        {
+          "term": "唐",
+          "meaning": "这里读为商汤。"
+        },
+        {
+          "term": "傅说",
+          "meaning": "武丁的辅臣，读 Yuè。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-03",
+      "manuscript": "良臣",
+      "number": 3,
+      "reading": "颠，有散宜生，有南宫适，有南宫夭，有芮伯，有伯适，有师尚父，有虢叔。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65、67页整简有清楚印刷编号；可见多个“又”形字，宽式释读按语法写作“有”。粗黑横画是原有分隔标记，不是把文字涂去。",
+      "explanation": "这一支继续列举周文王的辅佐者，“颠”接上一支构成“泰颠”。多个“有”把人名逐项隔开。师尚父通常联系到姜太公，但其他相近名字不能仅凭字面合并；名录保留了自身的人物分类。",
+      "terms": [
+        {
+          "term": "师尚父",
+          "meaning": "本书认作姜太公。"
+        },
+        {
+          "term": "适",
+          "meaning": "古人名用字，南宫适也写作南宫括。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-04",
+      "manuscript": "良臣",
+      "number": 4,
+      "reading": "武王有君奭，有君陈，有君牙，有周公旦，有召公，遂佐成王。晋文公有",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "出版社选页12与第65页第四简相同，开头“武王”明显；下段转入晋文公条目。",
+      "explanation": "这段列武王的臣属，并说他们继续辅佐成王，随后转换到晋文公。照片里的粗横线有助于看出条目转换。君陈、君牙被安排在这里，是简文自身的记载，不应拿传世说法悄悄改换年代。",
+      "terms": [
+        {
+          "term": "遂佐成王",
+          "meaning": "接着辅佐成王。"
+        },
+        {
+          "term": "周公旦",
+          "meaning": "周公的名为旦。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "人物年代与传世文献有不同；这里介绍简文观点，不裁定哪个传统必然正确。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        },
+        {
+          "label": "上海书画出版社《楚简名品》清华简选页公开展览",
+          "url": "https://www.sohu.com/a/374325442_369578"
+        }
+      ]
+    },
+    {
+      "key": "liangchen-05",
+      "manuscript": "良臣",
+      "number": 5,
+      "reading": "子犯，有子余，有咎犯，后有叔向。楚成王有令尹子文。楚昭王有令尹",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65、67页整简有清楚印刷编号；可见多个“又”形字，宽式释读按语法写作“有”。粗黑横画是原有分隔标记，不是把文字涂去。",
+      "explanation": "晋国条目列出数名辅臣，然后转入楚成王与楚昭王。“子犯”和“咎犯”通常同指狐偃，本书也指出此处可能把同一人分列；这说明名录可以保存重复和不同传统，读者不宜机械统计人数。",
+      "terms": [
+        {
+          "term": "子余",
+          "meaning": "本书释为赵衰的字。"
+        },
+        {
+          "term": "令尹",
+          "meaning": "楚国重要官职。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "子犯、咎犯可能同人；叔向所属时代也需与“后有”联系，不能当作全部同时任职。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-06",
+      "manuscript": "良臣",
+      "number": 6,
+      "reading": "子西，有司马子期，有叶公子高。齐桓公有管夷吾，有宾须亡，有隰",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65页附第六简上、中、下三段放大，可连续追踪楚国与齐国条目的交界。",
+      "explanation": "先接楚昭王条目，列出子西、子期和叶公子高，再列齐桓公的辅臣管夷吾、宾须亡及跨简写出的隰朋。这种国家之间的转换说明本篇以君臣组合为单位，不是一段连贯的事件叙事。",
+      "terms": [
+        {
+          "term": "司马",
+          "meaning": "官职名。"
+        },
+        {
+          "term": "管夷吾",
+          "meaning": "即管仲。"
+        },
+        {
+          "term": "叶公子高",
+          "meaning": "本书释为沈诸梁。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=64",
+          "page": 64
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=65",
+          "page": 65
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-07",
+      "manuscript": "良臣",
+      "number": 7,
+      "reading": "朋。吴王光有伍之胥。越王勾践有大〔夫〕种，有范蠡。秦穆公有羖大夫。宋",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第67页附第七简局部，可对照隰朋之“朋”、吴王光及伍子胥一段。",
+      "explanation": "简首补完隰朋，随后连续出现吴、越、秦的君臣组合，如阖闾与伍子胥、勾践与文种及范蠡。最后只有“宋”字，须等下一简才知道该国所列官员；跨简断句在名录中十分常见。",
+      "terms": [
+        {
+          "term": "吴王光",
+          "meaning": "吴王阖闾的名为光。"
+        },
+        {
+          "term": "伍之胥",
+          "meaning": "即伍子胥。"
+        },
+        {
+          "term": "羖大夫",
+          "meaning": "本书联系到百里奚。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "“大夫种”中的“夫”为整理者补出的字；应区分补字与原简可见字。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=66",
+          "page": 66
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=67",
+          "page": 67
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-08",
+      "manuscript": "良臣",
+      "number": 8,
+      "reading": "有左师。鲁哀公有季孙，有孔丘。郑桓公与周之遗老：史伯、宦仲、虢叔、杜",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65、67页整简有清楚印刷编号；可见多个“又”形字，宽式释读按语法写作“有”。粗黑横画是原有分隔标记，不是把文字涂去。",
+      "explanation": "这一简把宋的左师、鲁哀公的季孙和孔丘列入贤臣传统，随后写郑桓公与周遗老的联系。值得留意的是文本并非全用同一个官名，有时写相、有时写师或往来者，不能一概译成宰相。",
+      "terms": [
+        {
+          "term": "左师",
+          "meaning": "宋国官名。"
+        },
+        {
+          "term": "孔丘",
+          "meaning": "孔子的名为丘。"
+        },
+        {
+          "term": "遗老",
+          "meaning": "前朝或旧时代留下的老者。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "郑桓公以下的组合和身份依本册释读说明，具体关系不以现代官制类比。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=66",
+          "page": 66
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=67",
+          "page": 67
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-09",
+      "manuscript": "良臣",
+      "number": 9,
+      "reading": "伯，后出邦。郑定公之相有子皮，有子产，有子大叔。子产之师：王子",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第67页第九简局部展示郑定公之相条目，分隔横画明显。",
+      "explanation": "开头接成杜伯一名，并交代后续去向，随后转到郑定公的辅相。末尾另起“子产之师”，从君主的良臣扩展到名臣自己的老师，显示作者也重视人才如何受到教导。",
+      "terms": [
+        {
+          "term": "相",
+          "meaning": "辅相、辅助执政者。"
+        },
+        {
+          "term": "子产",
+          "meaning": "郑国著名政治人物。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "“后出邦”的主语和含义本册释注与白话说明不完全一致，这里不据以补写明确迁徙事件。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=66",
+          "page": 66
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=67",
+          "page": 67
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-10",
+      "manuscript": "良臣",
+      "number": 10,
+      "reading": "伯愿、肥仲、杜逝、□厈。子产之辅：子羽、子剌、蔑明、卑登、富之□、王子百。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第65、67页整简有清楚印刷编号；可见多个“又”形字，宽式释读按语法写作“有”。粗黑横画是原有分隔标记，不是把文字涂去。",
+      "explanation": "这一简先列子产的老师，再列他的助手，把“为师”与“为辅”分成两组。若干姓名罕见，图片虽能看到笔画，却不宜据读音猜成著名人物；两处未稳妥转写的字用方框保留。",
+      "terms": [
+        {
+          "term": "师",
+          "meaning": "老师。"
+        },
+        {
+          "term": "辅",
+          "meaning": "辅佐者、助手。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。",
+        "“□厈”“富之□”含本次不能可靠转写的字形；其他罕见人名采用本册释文，身份未作推定。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=66",
+          "page": 66
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=67",
+          "page": 67
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    },
+    {
+      "key": "liangchen-11",
+      "manuscript": "良臣",
+      "number": 11,
+      "reading": "楚共王有伯州犁，以为大宰。",
+      "reading_basis": "宽式释读：以出版社原文页核对简号与分简界线，参照同册释文将通假字写成便于阅读的通行字。并非仅凭照片独立释出全部文字。",
+      "visual_observation": "第67页编号十一的文字只占上部，以下大片留白；另附末句局部放大。",
+      "explanation": "末简用一个简短条目收束名录：楚共王任用伯州犁为大宰。照片中可见字写完后留有较长空白，因此不要把空白误当漏识的长段文字。全篇到这里仍保持君主、贤臣与职务相配的写法。",
+      "terms": [
+        {
+          "term": "大宰",
+          "meaning": "也常写作太宰，官职名。"
+        }
+      ],
+      "uncertainties": [
+        "古人名、通假字采用公开图录的宽式释文，不能仅凭此表认定全部人物时代和身份。"
+      ],
+      "sources": [
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=66",
+          "page": 66
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=67",
+          "page": 67
+        },
+        {
+          "label": "清华大学出土文献研究与保护中心《写在竹简上的经典—清华简》公开试读",
+          "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/071131-01.pdf#page=68",
+          "page": 68
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "museum-01",
+      "slip_keys": [
+        "qinwu-01",
+        "qinwu-02",
+        "qinwu-03",
+        "qinwu-04",
+        "qinwu-05",
+        "qinwu-06",
+        "qinwu-07",
+        "qinwu-08",
+        "qinwu-09",
+        "qinwu-10",
+        "qinwu-11",
+        "qinwu-12",
+        "qinwu-13",
+        "qinwu-14",
+        "qinwu-15",
+        "qinwu-16",
+        "qinwu-17"
+      ],
+      "observation": "可数出17个编号位置，15号缺上部、17号为短残简；与第51、53、55页合起来的整组外形一致。",
+      "status": "整篇编联概览；逐字阅读需换用较清晰图版",
+      "limitations": [
+        "450×602的整组图不能独立支持逐字转写；显示下列简文仅作为相应清晰图版和公开释文的导读。"
+      ]
+    },
+    {
+      "id": "pdf-p051-Im0",
+      "slip_keys": [
+        "qinwu-01"
+      ],
+      "observation": "已对照公开PDF第51页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p051-Im1",
+      "slip_keys": [
+        "qinwu-01",
+        "qinwu-02",
+        "qinwu-03",
+        "qinwu-04",
+        "qinwu-05",
+        "qinwu-06"
+      ],
+      "observation": "已对照公开PDF第51页印刷简号及局部图标签；对应一组连续编号整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-p051-Im2",
+      "slip_keys": [
+        "qinwu-05"
+      ],
+      "observation": "已对照公开PDF第51页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p051-Im3",
+      "slip_keys": [
+        "qinwu-03"
+      ],
+      "observation": "已对照公开PDF第51页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p053-Im0",
+      "slip_keys": [
+        "qinwu-07"
+      ],
+      "observation": "已对照公开PDF第53页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p053-Im1",
+      "slip_keys": [
+        "qinwu-07"
+      ],
+      "observation": "已对照公开PDF第53页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p053-Im2",
+      "slip_keys": [
+        "qinwu-07"
+      ],
+      "observation": "已对照公开PDF第53页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p053-Im3",
+      "slip_keys": [
+        "qinwu-07",
+        "qinwu-08",
+        "qinwu-09",
+        "qinwu-10",
+        "qinwu-11"
+      ],
+      "observation": "已对照公开PDF第53页印刷简号及局部图标签；对应一组连续编号整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-p055-Im0",
+      "slip_keys": [
+        "qinwu-12",
+        "qinwu-13",
+        "qinwu-14",
+        "qinwu-15",
+        "qinwu-16",
+        "qinwu-17"
+      ],
+      "observation": "已对照公开PDF第55页印刷简号及局部图标签；对应一组连续编号整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "第15简上段缺失，不能补读缺失部分。"
+      ]
+    },
+    {
+      "id": "pdf-p055-Im1",
+      "slip_keys": [
+        "qinwu-12"
+      ],
+      "observation": "已对照公开PDF第55页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p055-Im2",
+      "slip_keys": [
+        "qinwu-14"
+      ],
+      "observation": "已对照公开PDF第55页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p055-Im3",
+      "slip_keys": [
+        "qinwu-15"
+      ],
+      "observation": "已对照公开PDF第55页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。",
+        "第15简上段缺失，不能补读缺失部分。"
+      ]
+    },
+    {
+      "id": "publisher-08",
+      "slip_keys": [
+        "qinwu-01"
+      ],
+      "observation": "已把整支照片的首尾文字、分段放大内容与官方编号图版相互核对；本页只重复呈现同一支简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "页边是现代释文与注释，不能当作竹简墨书；放大分段不是不同竹简。"
+      ]
+    },
+    {
+      "id": "publisher-09",
+      "slip_keys": [
+        "qinwu-02"
+      ],
+      "observation": "已把整支照片的首尾文字、分段放大内容与官方编号图版相互核对；本页只重复呈现同一支简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "页边是现代释文与注释，不能当作竹简墨书；放大分段不是不同竹简。"
+      ]
+    },
+    {
+      "id": "publisher-10",
+      "slip_keys": [
+        "qinwu-03"
+      ],
+      "observation": "已把整支照片的首尾文字、分段放大内容与官方编号图版相互核对；本页只重复呈现同一支简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "页边是现代释文与注释，不能当作竹简墨书；放大分段不是不同竹简。"
+      ]
+    },
+    {
+      "id": "pdf-p009-Im0",
+      "slip_keys": [
+        "liangchen-01",
+        "liangchen-02",
+        "liangchen-03",
+        "liangchen-04",
+        "liangchen-05",
+        "liangchen-06",
+        "liangchen-07",
+        "liangchen-08",
+        "liangchen-09",
+        "liangchen-10",
+        "liangchen-11"
+      ],
+      "observation": "11支简的缩略编联图；左端末简文字较少，与第67页第11简留白特征相合。",
+      "status": "低分辨率概览；不作独立逐字识读",
+      "limitations": [
+        "223×348像素，单字笔画不足；简文由第65、67页清晰图版与第68页释文辅助。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im0",
+      "slip_keys": [
+        "liangchen-05"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im1",
+      "slip_keys": [
+        "liangchen-04"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im2",
+      "slip_keys": [
+        "liangchen-03"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im3",
+      "slip_keys": [
+        "liangchen-02"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im4",
+      "slip_keys": [
+        "liangchen-01"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im5",
+      "slip_keys": [
+        "liangchen-06"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im6",
+      "slip_keys": [
+        "liangchen-06"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im7",
+      "slip_keys": [
+        "liangchen-06"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p065-Im8",
+      "slip_keys": [
+        "liangchen-06"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im0",
+      "slip_keys": [
+        "liangchen-10"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im1",
+      "slip_keys": [
+        "liangchen-09"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im2",
+      "slip_keys": [
+        "liangchen-08"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im3",
+      "slip_keys": [
+        "liangchen-07"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im4",
+      "slip_keys": [
+        "liangchen-11"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im5",
+      "slip_keys": [
+        "liangchen-07"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im6",
+      "slip_keys": [
+        "liangchen-09"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p067-Im7",
+      "slip_keys": [
+        "liangchen-11"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "publisher-11",
+      "slip_keys": [
+        "liangchen-01"
+      ],
+      "observation": "已把整支照片的首尾文字、分段放大内容与官方编号图版相互核对；本页只重复呈现同一支简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "页边是现代释文与注释，不能当作竹简墨书；放大分段不是不同竹简。"
+      ]
+    },
+    {
+      "id": "publisher-12",
+      "slip_keys": [
+        "liangchen-04"
+      ],
+      "observation": "已把整支照片的首尾文字、分段放大内容与官方编号图版相互核对；本页只重复呈现同一支简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "页边是现代释文与注释，不能当作竹简墨书；放大分段不是不同竹简。"
+      ]
+    },
+    {
+      "id": "pdf-p010-Im0",
+      "slip_keys": [],
+      "observation": "可见7支长简，但原图仅100×339像素，图注只标“说命”，没有可可靠读出的简号或分篇名称。",
+      "status": "已尝试；分篇与逐字识读均不确定",
+      "limitations": [
+        "不依据7支的数量强行归入上篇或中篇；本图不绑定具体简号。可另看带编号的第27、31、35页图版。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im0",
+      "slip_keys": [
+        "shuoming-shang-07"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im1",
+      "slip_keys": [
+        "shuoming-shang-06"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im2",
+      "slip_keys": [
+        "shuoming-shang-05"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im3",
+      "slip_keys": [
+        "shuoming-shang-04"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im4",
+      "slip_keys": [
+        "shuoming-shang-04"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im5",
+      "slip_keys": [
+        "shuoming-shang-04"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im6",
+      "slip_keys": [
+        "shuoming-shang-04"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im7",
+      "slip_keys": [
+        "shuoming-shang-03"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im8",
+      "slip_keys": [
+        "shuoming-shang-02"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p027-Im9",
+      "slip_keys": [
+        "shuoming-shang-01"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im0",
+      "slip_keys": [
+        "shuoming-zhong-06"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im1",
+      "slip_keys": [
+        "shuoming-zhong-05"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im2",
+      "slip_keys": [
+        "shuoming-zhong-04"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im3",
+      "slip_keys": [
+        "shuoming-zhong-03"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im4",
+      "slip_keys": [
+        "shuoming-zhong-02"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im5",
+      "slip_keys": [
+        "shuoming-zhong-01"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im6",
+      "slip_keys": [
+        "shuoming-zhong-07"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应一支整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "原图很窄，部分细笔画必须参考同册放大图和释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im7",
+      "slip_keys": [
+        "shuoming-zhong-07"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im8",
+      "slip_keys": [
+        "shuoming-zhong-05"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p031-Im9",
+      "slip_keys": [
+        "shuoming-zhong-03"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p035-Im0",
+      "slip_keys": [
+        "shuoming-xia-01",
+        "shuoming-xia-02",
+        "shuoming-xia-03",
+        "shuoming-xia-04",
+        "shuoming-xia-05",
+        "shuoming-xia-06",
+        "shuoming-xia-07",
+        "shuoming-xia-08",
+        "shuoming-xia-09"
+      ],
+      "observation": "已对照公开PDF第35页印刷简号及局部图标签；对应一组连续编号整简。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-p035-Im1",
+      "slip_keys": [
+        "shuoming-xia-02"
+      ],
+      "observation": "已对照公开PDF第35页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-p035-Im2",
+      "slip_keys": [
+        "shuoming-xia-04"
+      ],
+      "observation": "已对照公开PDF第35页印刷简号及局部图标签；对应同一支简的放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "本图只是该简局部；下方整简文字的其余部分来自同页整简照片与配套释文。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p051",
+      "slip_keys": [
+        "qinwu-01",
+        "qinwu-02",
+        "qinwu-03",
+        "qinwu-04",
+        "qinwu-05",
+        "qinwu-06"
+      ],
+      "observation": "已对照公开PDF第51页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p053",
+      "slip_keys": [
+        "qinwu-07",
+        "qinwu-08",
+        "qinwu-09",
+        "qinwu-10",
+        "qinwu-11"
+      ],
+      "observation": "已对照公开PDF第53页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p055",
+      "slip_keys": [
+        "qinwu-12",
+        "qinwu-13",
+        "qinwu-14",
+        "qinwu-15",
+        "qinwu-16",
+        "qinwu-17"
+      ],
+      "observation": "已对照公开PDF第55页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。",
+        "第15简上段缺失，不能补读缺失部分。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p065",
+      "slip_keys": [
+        "liangchen-01",
+        "liangchen-02",
+        "liangchen-03",
+        "liangchen-04",
+        "liangchen-05",
+        "liangchen-06"
+      ],
+      "observation": "已对照公开PDF第65页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p067",
+      "slip_keys": [
+        "liangchen-07",
+        "liangchen-08",
+        "liangchen-09",
+        "liangchen-10",
+        "liangchen-11"
+      ],
+      "observation": "已对照公开PDF第67页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p027",
+      "slip_keys": [
+        "shuoming-shang-01",
+        "shuoming-shang-02",
+        "shuoming-shang-03",
+        "shuoming-shang-04",
+        "shuoming-shang-05",
+        "shuoming-shang-06",
+        "shuoming-shang-07"
+      ],
+      "observation": "已对照公开PDF第27页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p035",
+      "slip_keys": [
+        "shuoming-xia-01",
+        "shuoming-xia-02",
+        "shuoming-xia-03",
+        "shuoming-xia-04",
+        "shuoming-xia-05",
+        "shuoming-xia-06",
+        "shuoming-xia-07",
+        "shuoming-xia-08",
+        "shuoming-xia-09"
+      ],
+      "observation": "已对照公开PDF第35页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    },
+    {
+      "id": "pdf-plate-p031",
+      "slip_keys": [
+        "shuoming-zhong-01",
+        "shuoming-zhong-02",
+        "shuoming-zhong-03",
+        "shuoming-zhong-04",
+        "shuoming-zhong-05",
+        "shuoming-zhong-06",
+        "shuoming-zhong-07"
+      ],
+      "observation": "已对照公开PDF第31页印刷简号及局部图标签；对应多支整简和重复放大局部。",
+      "status": "已核对简号；照片与已发表释文联合识读",
+      "limitations": [
+        "以下文字为对应整简的宽式释读，含通假字整理；并非逐字复刻原形。"
+      ]
+    }
+  ]
+}

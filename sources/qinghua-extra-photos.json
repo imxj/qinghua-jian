@@ -1,0 +1,35 @@
+[
+  {
+    "title": "《筮法》编联照片（网络转载）",
+    "manuscript": "筮法",
+    "image_url": "https://i0.hdslb.com/bfs/new_dyn/ce293f6cb0de638652c61f3609a20a8212725469.jpg",
+    "source_url": "https://www.bilibili.com/opus/928025643969413126",
+    "source": "哔哩哔哩用户 -小蔡同学-",
+    "source_tier": "第三方公开转载",
+    "scope": "《筮法》整幅编联照片；来源文章标作“全图”，已目视确认是真实竹简照片，未按原报告逐简核验简号及完整性",
+    "local_path": "photos/reproduction-shifa-compiled.jpg",
+    "width": 2193,
+    "height": 1600,
+    "bytes": 3099975,
+    "url": "https://i0.hdslb.com/bfs/new_dyn/ce293f6cb0de638652c61f3609a20a8212725469.jpg",
+    "verified_visually": true,
+    "kind": "实物照片图版（转载）"
+  },
+  {
+    "title": "《别卦》照片图版（网络转载）",
+    "manuscript": "别卦",
+    "image_url": "https://www.eee-learning.com/sites/default/files/chinwhuajen18.jpg",
+    "source_url": "https://www.eee-learning.com/book/3661",
+    "source": "易学网",
+    "source_tier": "第三方公开转载",
+    "scope": "七支存简的彩色照片，并附其中三支的黑白图像；照片中留出缺简位置。图中有重复呈现，不是十支不同竹简",
+    "local_path": "photos/reproduction-biegua.jpg",
+    "width": 1328,
+    "height": 1400,
+    "bytes": 377075,
+    "url": "https://www.eee-learning.com/sites/default/files/chinwhuajen18.jpg",
+    "verified_visually": true,
+    "kind": "实物照片图版（转载）",
+    "unique_surviving_slips_visible": 7
+  }
+]

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+tmp/
+_site/
+.venv/
+.env
+.env.*
+annotations/review-*.txt

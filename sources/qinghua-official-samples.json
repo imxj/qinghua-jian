@@ -1,0 +1,76 @@
+[
+  {
+    "title": "摄命",
+    "volume": 8,
+    "source_url": "https://www.tsinghua.edu.cn/info/1177/22545.htm",
+    "image_url": "https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunews/9658/20181118103009511635352/1542509327166.jpg",
+    "scope": "照片中可见编号1—32的正面总览及右侧放大局部；650×490像素",
+    "width": 650,
+    "height": 490,
+    "local_path": "photos/qinghua-official-8.jpg",
+    "bytes": 308454,
+    "note": "已视觉检查：左侧编号1—32，右侧是分段放大局部。仅描述照片可见范围。"
+  },
+  {
+    "title": "成人",
+    "volume": 9,
+    "source_url": "https://www.tsinghua.edu.cn/info/1173/17467.htm",
+    "image_url": "https://www.tsinghua.edu.cn/_mediafile/qh2021b/publish/thunews/9659/20191123113924364391254/1574481811501.jpg",
+    "scope": "低分辨率正面总览；编号范围需进一步确认",
+    "width": 650,
+    "height": 400,
+    "local_path": "photos/qinghua-official-9.jpg",
+    "bytes": 90176,
+    "note": "图片已确认是竹简照片，低分辨率不足以可靠认定全部编号，不声明全篇完整。"
+  },
+  {
+    "title": "五音图",
+    "volume": 13,
+    "source_url": "https://www.ctwx.tsinghua.edu.cn/info/1072/3113.htm",
+    "image_url": "https://www.ctwx.tsinghua.edu.cn/__local/C/C9/DD/D8088CE8A3DE09F2EC3799A8338_4D3A2270_1911B.jpg",
+    "scope": "照片中可见编号1—37，包含残简、断片和缺损处",
+    "width": 800,
+    "height": 659,
+    "local_path": "photos/qinghua-official-13.jpg",
+    "bytes": 102683,
+    "note": "已视觉检查：从右到左标号1—37，可见古代五角星图案；仅描述照片可见范围。"
+  },
+  {
+    "title": "五纪选简",
+    "volume": 11,
+    "source_url": "https://xinwen.bjd.com.cn/content/s61be8f6ee4b07de68782738a.html",
+    "image_url": "https://static.bjd.com.cn/dams-res/editing/image/202312/28/658d0aafd5de9bf2815df60e.jpeg",
+    "scope": "照片可见简25、26、79、80、81、82、109、110、111，共9支选简；正面",
+    "width": 1080,
+    "height": 2970,
+    "local_path": "photos/qinghua-official-11.jpg",
+    "bytes": 475486,
+    "note": "已逐一检查图下编号。该篇原应130简，本图为选简。"
+  },
+  {
+    "title": "第十四辑《两中》样张",
+    "volume": 14,
+    "source_url": "https://www.whb.cn/commonDetail/962078",
+    "image_url": "https://image.whb.cn/image/7d5078f45f5943d8813963f1000f0d47.jpg",
+    "scope": "新闻合成图：图书封面、释文及两支竹简的分段放大照片；图中标注一、二",
+    "width": 993,
+    "height": 1454,
+    "local_path": "photos/qinghua-official-14.jpg",
+    "bytes": 583976,
+    "note": "图中释文“夏后奠卣，庶霝因固，九悳尃昜。兩中乃內，格于又河”与复旦大学所载《兩中》首段相合；图片总注还提及《成后》《昭后》，不能据总注将右侧简文标为这两篇。",
+    "identification_source_url": "https://www.fdgwz.org.cn/Web/Show/11228"
+  },
+  {
+    "title": "胥马选简",
+    "volume": 15,
+    "source_url": "https://export.shobserver.com/baijiahao/html/1065122.html",
+    "image_url": "https://images.shobserver.com/img/2026/02/10/1770721772461_edit.png",
+    "scope": "照片可见简28—31，共4支正面选简；807×4063像素",
+    "source_note": "贾连翔（清华大学出土文献研究与保护中心教授）署名文章；图片图注明确为清华简《胥马》正面图版",
+    "width": 807,
+    "height": 4063,
+    "local_path": "photos/qinghua-official-15.png",
+    "bytes": 1812907,
+    "note": "已视觉核对图下编号，由右至左为二八、二九、三〇、三一；保留原照片断痕。"
+  }
+]
